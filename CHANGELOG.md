@@ -14,7 +14,7 @@
 <p>☼ NEW +1 comments on a commit
 <p>☼ Export Issues
 <p>☼ Update New look and features page on [zenhub.io](https://www.zenhub.io/#features)
-<p>☼ Update The +1 button for Issue comments moved to the right of comment headers, let us know what you think &nbsp;&nbsp;&nbsp;[#56](https://github.com/axiomzen/zenhub-now/issues/56)
+<p>☼ Update The +1 button for Issue comments moved to the right of comment headers, let us know what you think [#56](https://github.com/axiomzen/zenhub-now/issues/56)
 <p>☼ Update When creating a new issue, the ZenHub pipeline selector has moved above GitHub's native "Add Labels" 
 <p>☂ Quicker response time for +1s
 <p>☂ Squashed bug causing Board to change [#71](https://github.com/axiomzen/zenhub-now/issues/71)
