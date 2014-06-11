@@ -1,3 +1,12 @@
+## v0.6.37 (06/11/2014)
+
+<p>☂ Improved sign in experience
+<p>☂ Fixed bug on Boards pipeline causing scroll to top after moving an issue
+<p>☂ Board no longer opens when switching between Chrome tabs via shortcuts
+<p>☂ Improved avatar loading speed when hovering over +1 buttons
+<p>☂ Fixed a bug that loaded notifications twice
+
+
 ## v0.6.28 (06/04/2014)
 
 <p>☼ NEW Add validation for Board URL parameters
