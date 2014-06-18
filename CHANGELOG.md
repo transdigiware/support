@@ -2,6 +2,10 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## v0.6.42 (06/18/2014)
+
+<p> ☂ Improved Zen loading icon, now rotates in a perfect circle instead of an oval
+
 ## v0.6.37 (06/11/2014)
 
 <p>☂ Improved sign in experience
