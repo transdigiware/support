@@ -2,6 +2,13 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## v0.6.58 (07/04/2014)
+
+<p> ☼ <b>NEW</b> Add/Remove a pipeline on Board [#6](https://github.com/axiomzen/zenhub-now/issues/6)
+<p> ☂ Board labels now resemble GitHub labels [#89](https://github.com/axiomzen/zenhub-now/issues/89)
+<p> ☂ Improved board design and user experience
+<p> ☂ Fixed bug causing GitHub API rate limit to be exceeded
+
 ## v0.6.45 (06/27/2014)
 
 <p>☼ <b>NEW</b> Now able to scroll when moving an Issue from one pipeline to another
