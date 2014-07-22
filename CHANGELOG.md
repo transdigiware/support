@@ -2,6 +2,17 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 0.6.64 (07/18/2014)
+
+<p> ☼ <b>NEW</b> Label selector in board now supports filtering
+<p> ☂ Fixed bug affecting label selector
+
+## 0.6.63 (07/12/2014)
+
+<p> ☼ <b>NEW</b> Board Modal [91](https://github.com/axiomzen/zenhub-now/issues/91)
+<p> ☼ <b>NEW</b> Use "b" as a shortcut to open and close the Board [81](https://github.com/axiomzen/zenhub-now/issues/81)
+
+
 ## v0.6.58 (07/04/2014)
 
 <p> ☼ <b>NEW</b> Add/Remove a pipeline on Board [#6](https://github.com/axiomzen/zenhub-now/issues/6)
