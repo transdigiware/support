@@ -2,6 +2,11 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 0.6.65 (07/23/2014)
+
+<p> ☂ Fixed bug affecting pipeline selector
+<p> ☂ Fixed bug causing alt text to continue to appear when moving an issue
+
 ## 0.6.64 (07/18/2014)
 
 <p> ☼ <b>NEW</b> Label selector in board now supports filtering
