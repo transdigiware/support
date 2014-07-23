@@ -10,7 +10,6 @@ Learn about all our features on [our website](https://www.zenhub.io/)!
 
 # Installation
 
-Direct them to the Website
 Find us in the Chrome Web Store or follow this [link](https://www.zenhub.io/)!
 
 # "Supercharged by ZenHub"
