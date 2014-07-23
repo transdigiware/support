@@ -18,7 +18,7 @@ Let your team and followers know you're using ZenHub by adding this snippet to y
 ```markdown
 [![ZenHubIO](http://img.shields.io/badge/supercharged%20by-ZenHub-yellow.svg)](https://zenhub.io)
 ```
- ![ZenHubIO](http://img.shields.io/badge/supercharged%20by-ZenHub-yellow.svg)
+[![ZenHubIO](http://img.shields.io/badge/supercharged%20by-ZenHub-yellow.svg)](https://zenhub.io)
 
 # Features
 - [Boards](https://www.zenhub.io/features#boards)
