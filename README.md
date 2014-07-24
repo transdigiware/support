@@ -16,9 +16,9 @@ Find us in the Chrome Web Store or follow this [link](https://www.zenhub.io/)!
 Let your team and followers know you're using ZenHub by adding this snippet to your repo's README.md file:
 
 ```markdown
-[![ZenHubIO](https://raw.githubusercontent.com/axiomzen/zenhub-now/master/zenhub-badge.svg)](https://zenhub.io)
+[![ZenHubIO](https://raw.githubusercontent.com/axiomzen/zenhub-now/master/zenhub-badge.png =x18)](https://zenhub.io)
 ```
-[![ZenHubIO](https://raw.githubusercontent.com/axiomzen/zenhub-now/master/zenhub-badge.svg)](https://zenhub.io)
+[![ZenHubIO](https://raw.githubusercontent.com/axiomzen/zenhub-now/master/zenhub-badge.png =x18)](https://zenhub.io)
 
 # Features
 - [Boards](https://www.zenhub.io/features#boards)
