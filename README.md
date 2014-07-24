@@ -1,12 +1,12 @@
 ZenHub Now
 ==========
 
-Welcome to our public-facing ZenHub repo.
+Welcome to our public-facing ZenHub repo. Here you can submit issues, vote on feature requests, or just say hi!
 
 # What is Zenhub?
 ZenHub is a lightweight browser extension that injects features directly into GitHub's native interface. It adds a key, strategic dimension to GitHub allowing dynamic peer feedback, file uploads, customizable kanban-style Issue boards, and more.
 
-Learn about all our features on [our website](https://www.zenhub.io/)! 
+Learn about our features on [our website](https://www.zenhub.io/)! 
 
 # Installation
 
@@ -22,15 +22,18 @@ Let your team and followers know you're using ZenHub by adding this snippet to y
 
 # Features
 - [Boards](https://www.zenhub.io/features#boards)
-- [Repo switcher](https://www.zenhub.io/features#repo-switcher)
+- [Repo Switcher](https://www.zenhub.io/features#repo-switcher)
 - [File Uploader](https://www.zenhub.io/#features) (For non Github supported files)
 - [+1 Instant Feedback Button](https://www.zenhub.io/#features)
-- many more [goodies](https://www.zenhub.io/features)
+- More [goodies](https://www.zenhub.io/features)
 
-# Protips
-- Press (B) on your keyboard now to see our Board and check out how we're using it to power this repo!
-- Press (F) to quickly activate the repo switcher
-- Click a user image to filter issues or see issues assigned to you
-- Filter all issues by milestone, label or assignee
+# Board Protips
+- Press (B) on your keyboard now to open our Board and check out how we're using it to power this repo!
+- Click any user image to filter Issues or see Issues assigned to you
+- Filter all Issues by milestone, label or assignee
 - Scroll to the right to add a new pipeline
-- Edit any pipeline easily by double clicking its name
+- Edit any pipeline easily by double clicking its name- 
+
+# Other Protips
+- Press (F) to quickly activate the repo switcher
+- Set your pipeline instantly when creating a new Issue
