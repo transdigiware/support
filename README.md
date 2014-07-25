@@ -15,10 +15,10 @@ Find us in the Chrome Web Store or follow this [link](https://www.zenhub.io/)!
 # "Supercharged by ZenHub"
 Let your team and followers know you're using ZenHub by adding this snippet to your repo's README.md file:
 
-```markdown
-[![ZenHubIO](https://raw.githubusercontent.com/axiomzen/zenhub-now/master/zenhub-badge.png =x18)](https://zenhub.io)
+```html
+<a href="https://zenhub.io"><img src="https://raw.githubusercontent.com/axiomzen/zenhub-now/master/zenhub-badge.png" height="18px"></a>
 ```
-[![ZenHubIO](https://raw.githubusercontent.com/axiomzen/zenhub-now/master/zenhub-badge.png =x18)](https://zenhub.io)
+<a href="https://zenhub.io"><img src="https://raw.githubusercontent.com/axiomzen/zenhub-now/master/zenhub-badge.png" height="18px"></a>
 
 # Features
 - [Boards](https://www.zenhub.io/features#boards)
@@ -32,7 +32,7 @@ Let your team and followers know you're using ZenHub by adding this snippet to y
 - Click any user image to filter Issues or see Issues assigned to you
 - Filter all Issues by milestone, label or assignee
 - Scroll to the right to add a new pipeline
-- Edit any pipeline easily by double clicking its name- 
+- Edit any pipeline easily by double clicking its name 
 
 # Other Protips
 - Press (F) to quickly activate the repo switcher
