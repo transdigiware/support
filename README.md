@@ -27,13 +27,6 @@ Let your team and followers know you're using ZenHub by adding this snippet to y
 - [+1 Instant Feedback Button](https://www.zenhub.io/#features)
 - More [goodies](https://www.zenhub.io/features)
 
-# Board Protips
-- Press (B) on your keyboard now to open our Board and check out how we're using it to power this repo!
-- Click any user image to filter Issues or see Issues assigned to you
-- Filter all Issues by milestone, label or assignee
-- Scroll to the right to add a new pipeline
-- Edit any pipeline easily by double clicking its name 
-
-# Other Protips
-- Press (F) to quickly activate the repo switcher
-- Set your pipeline instantly when creating a new Issue
+# Protips!
+- Press `B` to open the Board from any repo. Check out how we're using it to power this repo!
+- Press `F` to open the Quick Repo Switcher.
