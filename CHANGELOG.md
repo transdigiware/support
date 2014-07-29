@@ -2,6 +2,16 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 0.6.68 (07/29/2014)
+
+<p> ☂ Re-injected +1 and Pipeline Selector after GH update
+
+## 0.6.67 (07/28/2014)
+
+<p> ☂ Fixed +1 on Issues index
+<p> ☂ Fixed feature injection when loading an issue from the issues index 
+
+
 ## 0.6.65 (07/23/2014)
 
 <p> ☂ Fixed bug affecting pipeline selector
