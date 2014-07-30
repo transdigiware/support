@@ -2,6 +2,10 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 0.6.69 (07/29/2014)
+
+<p> ☼ <b>NEW</b> Selected milestone name now appears in the milestone filter button on the Board!
+
 ## 0.6.68 (07/29/2014)
 
 <p> ☂ Re-injected +1 and Pipeline Selector after GH update
