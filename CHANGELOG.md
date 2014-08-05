@@ -2,6 +2,12 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 0.6.77 (08/04/2014)
+
+<p> ☼ <b>NEW</b> Labels and milestones now displayed alphanumerically [#105](https://github.com/axiomzen/zenhub-now/issues/105)
+<p> ☂ Fixed a bug that caused multiple Board menu icons [104](https://github.com/axiomzen/zenhub-now/issues/104)
+<p> ☂ Fixed a bug affecting +1 popover
+
 ## 0.6.69 (07/29/2014)
 
 <p> ☼ <b>NEW</b> Selected milestone name now appears in the milestone filter button on the Board!
