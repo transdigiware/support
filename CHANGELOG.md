@@ -8,6 +8,10 @@
 <p> ☂ Fixed bug that caused duplicate Issues to appear on the Board
 <p> ☂ Fixed bug causing an error when uploading a Keynote file
 
+## 0.7.15 (09/01/2014)
+
+<p> ☼ <b>NEW</b> Upgraded API infrastructure for scalability
+
 ## 0.6.77 (08/04/2014)
 
 <p> ☼ <b>NEW</b> Labels and milestones now displayed alphanumerically [#105](https://github.com/axiomzen/zenhub-now/issues/105)
