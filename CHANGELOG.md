@@ -2,6 +2,12 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 0.7.17 (09/02/2014)
+
+<p> ☂ Updated notification copy for in-pipeline changes on the Board
+<p> ☂ Fixed bug that caused duplicate Issues to appear on the Board
+<p> ☂ Fixed bug causing an error when uploading a Keynote file
+
 ## 0.6.77 (08/04/2014)
 
 <p> ☼ <b>NEW</b> Labels and milestones now displayed alphanumerically [#105](https://github.com/axiomzen/zenhub-now/issues/105)
