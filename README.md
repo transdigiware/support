@@ -1,3 +1,5 @@
+<a href="https://zenhub.io"><img src="https://raw.githubusercontent.com/axiomzen/zenhub-now/master/zenhub-badge.png" height="18px"></a>
+
 ZenHub Now
 ==========
 
