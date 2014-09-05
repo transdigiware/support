@@ -1,6 +1,6 @@
 <a href="https://zenhub.io"><img src="https://raw.githubusercontent.com/axiomzen/zenhub-now/master/zenhub-badge.png" height="18px"></a>
 
-ZenHub Now
+ZenHub Support
 ==========
 
 Welcome to our public-facing ZenHub repo. Here you can submit issues, vote on feature requests, or just say hi!
