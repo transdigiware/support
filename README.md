@@ -1,4 +1,4 @@
-<a href="https://zenhub.io"><img src="https://raw.githubusercontent.com/axiomzen/zenhub-now/master/zenhub-badge.png" height="18px"></a>
+<a href="https://zenhub.io"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png" height="18px"></a>
 
 ZenHub Support
 ==========
@@ -18,9 +18,9 @@ Find us in the Chrome Web Store or follow this [link](https://www.zenhub.io/)!
 Let your team and followers know you're using ZenHub by adding this snippet to your repo's README.md file:
 
 ```html
-<a href="https://zenhub.io"><img src="https://raw.githubusercontent.com/axiomzen/zenhub-now/master/zenhub-badge.png" height="18px"></a>
+<a href="https://zenhub.io"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png" height="18px"></a>
 ```
-<a href="https://zenhub.io"><img src="https://raw.githubusercontent.com/axiomzen/zenhub-now/master/zenhub-badge.png" height="18px"></a>
+<a href="https://zenhub.io"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png" height="18px"></a>
 
 # Features
 - [Boards](https://www.zenhub.io/features#boards)
