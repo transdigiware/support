@@ -31,7 +31,7 @@ Let your team and followers know you're using ZenHub by adding this snippet to y
 
 # Protips!
 - Press `B` to open the Board from any repo. Check out how we're using it to power this repo!
-- Press `F` to open the Quick Repo Switcher.
+- Press `F` to open the Rapid Repo Switcher.
 
 
 # ZenHub-Now Issue Creation 
