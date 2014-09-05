@@ -2,6 +2,13 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 0.7.23 (09/05/2014)
+
+<p> ☼ <b>NEW</b> Added protips while loading the Board
+<p> ☂ Updated styling on Board scaffolding view
+<p> ☂ Updated error messaging
+<p> ☂ Fixed file upload bug - now upload more than one image at a time
+
 ## 0.7.18 (09/02/2014)
 
 <p> ☂ Updated notification copy for in-pipeline changes on the Board
