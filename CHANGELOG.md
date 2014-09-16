@@ -2,6 +2,12 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 0.7.31 (09/15/2014)
+
+<p> ☼ <b>NEW</b> Assignee filter to replace the collaborator list
+<p> ☼ <b>NEW</b> Board filter shortcuts: l for filter by label, m for filter by milestone and a for filter by assignee
+<p> ☂ Updated notifications to only show +1's on your comments
+
 ## 0.7.27 (09/10/2014)
 
 <p> ☼ <b>NEW</b> Issues will now open in a new tab when opened from the Board [#117](https://github.com/ZenHubIO/support/issues/117)
