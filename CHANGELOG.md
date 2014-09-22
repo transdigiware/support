@@ -2,6 +2,12 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 0.7.37 (09/22/2014)
+
+<p> ☂ Now able to sign in to multiple devices at once
+<p> ☂ Updates to assignee filter on Boards
+<p> ☂ Fixed a bug causing a signout error
+
 ## 0.7.31 (09/15/2014)
 
 <p> ☼ <b>NEW</b> Assignee filter to replace the collaborator list
