@@ -2,6 +2,9 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 0.7.45 (10/06/2014)
+<p> ☂ Fixed label order on the issue card [#125](https://github.com/ZenHubIO/support#125)
+
 ## 0.7.37 (09/22/2014)
 
 <p> ☂ Now able to sign in to multiple devices at once
