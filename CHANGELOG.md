@@ -2,6 +2,13 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 0.7.48 (10/09/2014)
+
+<p> ☼ <b>NEW</b> Added grabbing cursor when moving a card
+<p> ☂ Updates the user mixpanel profile only when user has an activity on ZenHub
+<p> ☂ Fixed the pipeline selector when a state change is issued
+
+
 ## 0.7.45 (10/06/2014)
 <p> ☂ Fixed label order on the issue card [#125](https://github.com/ZenHubIO/support/issues/125)
 
