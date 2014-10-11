@@ -56,11 +56,8 @@ Features that the ZenHub team are working on, or will be in the future.
 
 Bugs! Issues we know about and are working to resolve.  
 
-### 5 - Shipped! 
 
-Our favourite pipeline! 
-
-### 6 - Community Icebox
+### 5 - Community Icebox
 
 Features that we have yet to prioritize.
 
