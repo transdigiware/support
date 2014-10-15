@@ -2,6 +2,10 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 0.7.49 (10/14/2014)
+<p> ☼ <b>NEW</b> Mixpanel Signup
+<p> ☂ Clears local storage on signout
+
 ## 0.7.48 (10/09/2014)
 
 <p> ☼ <b>NEW</b> Added grabbing cursor when moving a card
