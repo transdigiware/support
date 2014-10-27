@@ -2,6 +2,10 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 1.0.0 (10/27/2014)
+<p> ☼ <b>NEW</b> Beta Exit
+<p> ☼ <b>NEW</b> Access check option
+
 ## 0.7.49 (10/14/2014)
 <p> ☼ <b>NEW</b> Mixpanel Signup
 <p> ☂ Clears local storage on signout
