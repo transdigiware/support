@@ -2,6 +2,10 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 1.0.1 (10/31/2014)
+<p> ☼ <b>NEW</b> Polished board style 
+<p> ☂ Feature loading fixes
+
 ## 1.0.0 (10/27/2014)
 <p> ☼ <b>NEW</b> Beta Exit
 <p> ☼ <b>NEW</b> Access check option
