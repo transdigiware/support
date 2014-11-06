@@ -2,6 +2,11 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 1.0.3 (11/05/2014)
+<p> ☼ <b>NEW</b> Dashboard API- you can now grant someone admin access 
+<p> ☂ Board Menubar tweak
+<p> ☂ Fixed Mixpanel active session 
+
 ## 1.0.1 (10/31/2014)
 <p> ☼ <b>NEW</b> Polished board style 
 <p> ☂ Feature loading fixes
