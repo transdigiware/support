@@ -2,6 +2,9 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 1.0.5 (11/21/2014)
+<p> ☼ <b>NEW</b> Coupons for subscriptions 
+
 ## 1.0.3 (11/05/2014)
 <p> ☼ <b>NEW</b> Dashboard API- you can now grant someone admin access 
 <p> ☂ Board Menubar tweak
