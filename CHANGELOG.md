@@ -2,6 +2,13 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+
+## 1.1.0 (01/19/2015)
+
+<p> ☼ <b>NEW</b> Automatic board creation
+<p> ☼ <b>NEW</b> +1 button
+<p> ☼ <b>NEW</b> Multiple file uploader
+
 ## 1.0.8 (01/06/2015)
 <p> ☂ Fixed bug regarding dragging issues to different pipelines
 
