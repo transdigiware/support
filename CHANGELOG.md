@@ -2,6 +2,12 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 1.1.15 (02/04/2015)
+
+<p> ☼ <b>NEW</b> Popup error message improvement
+<p> ☼ <b>NEW</b> Onboarding Tooltips
+<p> ☂ Fixed dropdown css issues
+
 
 ## 1.1.0 (01/19/2015)
 
