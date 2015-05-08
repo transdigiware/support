@@ -2,6 +2,15 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+
+## 2.0.1 (05/01/2015)
+
+<p> ☼ <b>NEW</b> Toggle on/off the ability to view PRs
+
+## 2.0.0 (04/29/2015)
+
+<p> ☼ <b>NEW</b> Multi-Repo Boards
+
 ## 1.1.15 (02/04/2015)
 
 <p> ☼ <b>NEW</b> Popup error message improvement
