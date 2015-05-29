@@ -2,6 +2,10 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 2.1.13 (05/29/2015)
+
+<p> ☂  Fixed Repo Switcher
+
 ## 2.1.4 (05/08/2015)
 
 <p> ☼ <b>NEW</b> Burndown Charts
