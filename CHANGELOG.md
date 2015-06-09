@@ -2,6 +2,13 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+
+## 2.1.19 (06/05/2015)
+
+<p> ☼ <b>NEW</b> Shows the Estimate section in closed issues
+<p> ☼ <b>NEW</b> Includes closed milestones in the Burndown Page Milestone Selector
+<p> ☼ <b>NEW</b> Burndown Page UX Improvements
+
 ## 2.1.13 (05/29/2015)
 
 <p> ☂  Fixed Repo Switcher
