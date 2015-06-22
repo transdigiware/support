@@ -3,6 +3,11 @@
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
 
+## 2.2.7 (06/18/2015)
+
+<p> ☼ <b>NEW</b> Issue Popup
+<p> ☼ <b>NEW</b> V3 UI
+
 ## 2.1.19 (06/05/2015)
 
 <p> ☼ <b>NEW</b> Shows the Estimate section in closed issues
