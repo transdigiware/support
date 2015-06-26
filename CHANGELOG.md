@@ -2,6 +2,13 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 2.2.15 (06/26/2015)
+
+<p> ☼ <b>NEW</b> Cache saves any work on a board popup or new issue popup when the user exits (in case the exit was by mistake)
+<p> ☂ Fixed bug on Burndown page that was impacting descriptions with markdown 
+<p> ☂ Fixed the trial banner for narrow pages 
+<p> ☂ Removed the trial banner for non-ZenHub pages 
+<p> ☂ Added middle-click to open issue in a new tab for Windows users 
 
 ## 2.2.7 (06/18/2015)
 
