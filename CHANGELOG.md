@@ -2,6 +2,9 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 2.3.9 (07/22/2015)
+<p> ☼ <b>NEW</b> Board Search - real time filtering 
+
 ## 2.3.6 (07/20/2015)
 <p> ☼ <b>NEW</b> View unread notifications in your ZenHub board (upto 100 per repo made from 50 direct notifications and 50 general notifications - feedback welcome on this number!)
 <p> ☂ Bug fix for new issue pipeline selector submitting issues 
