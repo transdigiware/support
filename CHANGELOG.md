@@ -2,6 +2,10 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 2.5.2 (08/05/2015) 
+<p> ☂ Bug fix - Some users were missing closed issues on the board 
+<p> ☂ Bug fix - Fix repo switcher CSS to remove yellow on private repos
+
 ## 2.5.1 (07/29/2015)
 <p> ☼ <b>NEW</b> Show estimates in the ZenHub board
 <p> ☂ Bug fix - Layout bug fixes for the search bar
