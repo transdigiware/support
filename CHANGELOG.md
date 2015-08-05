@@ -2,6 +2,10 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 2.5.1 (07/29/2015)
+<p> ☼ <b>NEW</b> Show estimates in the ZenHub board
+<p> ☂ Bug fix - Layout bug fixes for the search bar
+
 ## 2.4.1 (07/28/2015)
 <p> ☼ <b>NEW</b> Slack integration! Post you ZH changes into your slack channels, create new webhooks via your ZenHub Dashboard - https://dashboard.zenhub.io
 <p> ☂ Bug fix - while loading, the repo switcher will keep any entered text
