@@ -2,6 +2,10 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 2.5.2 (08/07/2015) 
+<p> ☂ Bug fix - Slack messages show the username in the event a full name is not found
+<p> ☂ Bug fix - Slack messages have improved copy for issue re-ordering 
+
 ## 2.5.2 (08/05/2015) 
 <p> ☂ Bug fix - Some users were missing closed issues on the board 
 <p> ☂ Bug fix - Fix repo switcher CSS to remove yellow on private repos
