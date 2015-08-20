@@ -3,6 +3,12 @@
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
 ## 2.5.2 (08/07/2015) 
+<p> ☂ Bug fix - Add 'Me' as the first assignee in assignee filter
+<p> ☂ Bug fix - Allow estimates to be added as a fraction
+<p> ☂ Bug fix - Fix milestone selector bug for Multi-Repo boards
+<p> ☂ Bug fix - Improve top bar alignment for ZenHub board modal
+
+## 2.5.2 (08/07/2015) 
 <p> ☂ Bug fix - Slack messages show the username in the event a full name is not found
 <p> ☂ Bug fix - Slack messages have improved copy for issue re-ordering 
 
