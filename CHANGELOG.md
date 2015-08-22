@@ -2,6 +2,10 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 2.5.10 (08/21/2015) 
+<p> ☂ Bug fix - The burndown chart now shows the milestone closest to expiry by default
+<p> ☂ Bug fix - The show all button on the Multi-Repo board becomes show one when selected
+
 ## 2.5.2 (08/07/2015) 
 <p> ☂ Bug fix - Add 'Me' as the first assignee in assignee filter
 <p> ☂ Bug fix - Allow estimates to be added as a fraction
