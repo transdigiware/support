@@ -6,7 +6,7 @@
 <p> ☂ Bug fix - Long milestone filters now fit into the screen
 <p> ☂ Bug fix - make board scroll bar larger
 <p> ☂ Bug fix - resolve broken GitHub shortcut keys
-<p> ☼ <b>NEW</b> - Milestone filter is now 'AND' rather than 'OR'
+<p> ☼ <b>NEW</b> - Milestone filter is now multiselect
 
 ## 2.5.10 (08/21/2015) 
 <p> ☂ Bug fix - The burndown chart now shows the milestone closest to expiry by default
