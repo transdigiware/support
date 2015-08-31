@@ -2,6 +2,12 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 2.5.16 (08/31/2015)
+<p> ☂ Bug fix - Long milestone filters now fit into the screen
+<p> ☂ Bug fix - make board scroll bar larger
+<p> ☂ Bug fix - resolve broken GitHub shortcut keys
+
+
 ## 2.5.10 (08/21/2015) 
 <p> ☂ Bug fix - The burndown chart now shows the milestone closest to expiry by default
 <p> ☂ Bug fix - The show all button on the Multi-Repo board becomes show one when selected
