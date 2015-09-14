@@ -2,6 +2,10 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 2.5.26 (09/14/2015)
+<p> ☂ Bug fix - resolve sidebar elements removal bug
+<p> ☂ Bug fix - better URL handing in board
+
 ## 2.5.16 (08/31/2015)
 <p> ☂ Bug fix - Long milestone filters now fit into the screen
 <p> ☂ Bug fix - make board scroll bar larger
