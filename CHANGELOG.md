@@ -2,6 +2,9 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 2.7.2 (09/17/2015)
+<p> ☼ <b>NEW</b> - A host of speed improvements - more coming soon! 
+
 ## 2.5.26 (09/14/2015)
 <p> ☂ Bug fix - resolve sidebar elements removal bug
 <p> ☂ Bug fix - better URL handing in board
