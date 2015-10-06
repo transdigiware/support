@@ -2,6 +2,11 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 2.8.6 (10/06/2015)
+<p> ☼ <b>NEW</b> Improvements to board loading speed
+<p> ☂ Bug fix - better handling of repo-renames. Inconsistency will be resolved after one hour or when an issue is created / renamed. 
+<p> ☂ Bug fix - Side scrolling bug resolved
+
 ## 2.8.1 (09/30/2015)
 <p> ☼ <b>NEW</b> - Collapse and Expand ZenHub board pipelines
 
