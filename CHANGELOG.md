@@ -2,6 +2,9 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 2.9.6 (10/19/2015)
+<p> ☼ <b>NEW</b> Personal task management in GitHub! ZenHub launches ToDo - www.zenhub.io/blog/to-do-productivity-feature
+
 ## 2.8.7 (10/09/2015)
 <p> ☼ <b>NEW</b> UI improvements for view open/closed issues & PR's in board view 
 
