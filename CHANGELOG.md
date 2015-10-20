@@ -2,7 +2,7 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
-## 2.9.6 (10/20/2015)
+## 2.9.8 (10/20/2015)
 <p> ☼ <b>NEW</b> Improve the board rendering performance 
 
 ## 2.9.6 (10/19/2015)
