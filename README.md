@@ -31,6 +31,8 @@ Let your team and followers know you're using ZenHub by adding this snippet to y
 
 # Protips!
 - Press `B` to open the Board from any repo. Check out how we're using it to power this repo!
+- Press `D` to open the Burndown Chart.
+- Press `Z` to open your personnal To-Do list.
 - Press `F` to open the Rapid Repo Switcher.
 
 
