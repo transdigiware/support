@@ -2,6 +2,10 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 2.9.10 (10/21/2015)
+<p> ☂ Bug fix - Better filter handling 
+<p> ☂ Bug fix - pipeline names no longer overlap
+
 ## 2.9.8 (10/20/2015)
 <p> ☼ <b>NEW</b> Improve the board rendering performance 
 
