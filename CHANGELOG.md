@@ -2,6 +2,11 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+## 2.11.2 (10/26/2015)
+<p> ☂ Bug fix - Filters remain when board is refreshed
+<p> ☂ Bug fix - Removed 'hide open issues' button
+
+
 ## 2.10.5 (10/23/2015)
 <p> ☂ Bug fix - fixed issue with pipeline selector in pop-ups
 <p> ☂ Bug fix - fixed issue with links in the browser extension button
