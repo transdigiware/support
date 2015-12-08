@@ -2,6 +2,13 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+##2.13.9 (12/08/2015)
+<p> ☂ Bug fix - Faster pipeline updates
+<p> ☂ Bug fix - avoid auto scroll when closing an issue
+
+##2.13 (12/02/2015)
+<p> ☼ <b>NEW</b> Firefox support!
+
 ## 2.12.23 (11/26/2015) 
 <p> ☼ <b>NEW</b> Cross organization board linking!
 <p> ☼ <b>NEW</b> speed improvements! 
