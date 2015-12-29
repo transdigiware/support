@@ -2,6 +2,20 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+##2.13.24 (12/29/2015)
+<p> ☂ Bug fix - Focus the Issue Popup when it opens.
+<p> ☂ Bug fix - Blazing fast filter updates in the board.
+
+##2.12.23 (12/28/2015)
+<p> ☂ Bug fix - Fixes search input focus bug
+
+##2.13.22 (12/24/2015)
+<p> ☂ Bug fix - More robust implementation of the Board rendering and injection (pjax issues).
+<p> ☂ Bug fix - Remove the attachment icon on Issue cards.
+<p> ☂ Bug fix - Fix issue popup dismiss handling and update the board after closing the popup.
+<p> ☼ <b>NEW</b> Sum of estimates on the Pipeline headers.
+
+
 ##2.13.9 (12/08/2015)
 <p> ☂ Bug fix - Faster pipeline updates
 <p> ☂ Bug fix - avoid auto scroll when closing an issue
