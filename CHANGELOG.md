@@ -2,6 +2,10 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+##2.15.3 (01/13/2016)
+<p> ☼ <b>NEW</b> - Show pipeline and estimate updates in the issue page - as they happen
+<p> ☂ Bug fix - middle click to open issue in new tab from the board
+
 ##2.15.2 (01/12/2016)
 <p> ☂ Bug fix -  resolve burndowns not loading in some cases
 
