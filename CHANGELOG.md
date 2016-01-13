@@ -2,6 +2,9 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+##2.15.1 (01/11/2016)
+<p> ☼ <b>NEW</b> - Move multiple issues - at the same time!
+
 ##2.14.2 (01/07/2016)
 <p> ☼ <b>NEW</b> - Issue updates are shown in-line on the issue page
 <p> ☂ Bug fix -  Minor style fixes for Firefox
