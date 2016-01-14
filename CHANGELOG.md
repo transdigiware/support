@@ -2,6 +2,12 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+
+##2.15.4 (01/13/2016)
+<p> ☂ Bug fix - fix todo page scroll bug 
+<p> ☂ Bug fix - update repo switcher style
+<p> ☂ Bug fix - fix alignment of cross-org merge repo dialog
+
 ##2.15.3 (01/13/2016)
 <p> ☼ <b>NEW</b> - Show pipeline and estimate updates in the issue page - as they happen
 <p> ☂ Bug fix - middle click to open issue in new tab from the board
