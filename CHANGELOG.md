@@ -2,6 +2,12 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.15.11 (01/20/2016)
+
+<p> ☼ <b>NEW</b> - Send an issue to the top or bottom of a pipeline 
+<p> ☂ Bug fix - resolves sign out issues 
+<p> ☂ Bug fix - makes sure new issues are added to the board immediatly 
+
 
 ##2.15.4 (01/13/2016)
 <p> ☂ Bug fix - fix todo page scroll bug 
