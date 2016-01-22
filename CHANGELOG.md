@@ -2,6 +2,9 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.15.12 (01/22/2016)
+<p> ☼ <b>NEW</b> - Add a full screen mode
+
 #2.15.11 (01/20/2016)
 
 <p> ☼ <b>NEW</b> - Send an issue to the top or bottom of a pipeline 
