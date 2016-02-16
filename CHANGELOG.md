@@ -2,6 +2,11 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.14.44 (01/16/2016)
+<p> ☂ Bug fix - side bar scroll updates
+<p> ☂ Bug fix - a number of icon updates 
+<p> ☂ Bug fix - close issue bug for in-board modal
+
 #2.15.16 (01/28/2016)
 <p> ☼ <b>NEW</b> - Persist mutli-board selection
 <p> ☼ <b>NEW</b> - Allow estimates on closed issues
