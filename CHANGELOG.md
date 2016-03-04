@@ -2,6 +2,9 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.15.61 (03/03/2016)
+<p> ☼ <b>NEW</b> Multiple repository burndown charts! 
+
 #2.15.52 (02/24/2016)
 <p> ☂ Bug fix - resolve milestone cache issues with milestone renames
 
