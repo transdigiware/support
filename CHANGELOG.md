@@ -2,6 +2,9 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.15.69 (03/09/2016)
+<p> ☼ <b>NEW</b> Option to load more issues into the closed pipeline
+
 #2.15.65 (03/04/2016)
 <p> ☼ <b>NEW</b> Show pipelines and estimates on issue list page 
 
