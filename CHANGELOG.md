@@ -2,6 +2,9 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.15.72 (03/11/2016)
+<p> ☂ Bug fix - Show last 5 closed milestones on the burndown page
+
 #2.15.69 (03/09/2016)
 <p> ☼ <b>NEW</b> Option to load more issues into the closed pipeline
 
