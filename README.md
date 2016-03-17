@@ -6,7 +6,7 @@ ZenHub Support
 Welcome to our public-facing ZenHub repo. Here you can submit issues, vote on feature requests, or just say hi!
 
 # What is Zenhub?
-ZenHub is a lightweight browser extension that injects features directly into GitHub's native interface. It adds a key, strategic dimension to GitHub allowing dynamic peer feedback, file uploads, customizable kanban-style Issue boards, and more.
+ZenHub is a lightweight browser extension that injects features directly into GitHub's native interface. It adds a key, strategic dimension to GitHub allowing team collaboration, customizable kanban-style Issue boards, reporting and more.
 
 Learn about our features on [our website](https://www.zenhub.io/)!
 
@@ -25,8 +25,8 @@ Let your team and followers know you're using ZenHub by adding this snippet to y
 # Features
 - [Boards](https://www.zenhub.io/features#boards)
 - [Repo Switcher](https://www.zenhub.io/features#repo-switcher)
-- [File Uploader](https://www.zenhub.io/#features) (For non Github supported files)
-- [+1 Instant Feedback Button](https://www.zenhub.io/#features)
+- [Reporting](https://www.zenhub.io/burndownChart)
+- [To-Do Lists](https://www.zenhub.io/ToDo-agile-task-management)
 - More [goodies](https://www.zenhub.io/features)
 
 # Protips!
@@ -48,7 +48,7 @@ The first pipeline an issue will hit - this lets us know what needs our attentio
 
 ### 2 - Discussion
 
-An issue will get moved here when we are looking for some community feedback, so don't forget to +1 those issues you would like to see!
+An issue will get moved here when we are looking for some community feedback, so don't forget to add GitHub reactions to those issues you would like to see!
 
 ### 3 - Community Backlog
 
