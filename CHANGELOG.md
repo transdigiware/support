@@ -2,6 +2,9 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.15.77 (03/16/2016)
+<p> ☂ Bug fix - Onboarding cache bug fix - onboarding settings now stored on the backend
+
 #2.15.76 (03/15/2016)
 <p> ☼ <b>NEW</b> - Feature tidy-up. Removed +1, file uploads and export functionality
 
