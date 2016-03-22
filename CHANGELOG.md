@@ -2,6 +2,9 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.15.87 (03/21/2016)
+<p> ☂ Bug fix - fixed bug with multi-org burndown charts
+
 #2.15.86 (03/21/2016)
 <p> ☂ Bug fix - Boards broken following the GitHub downtime
 <p> ☂ Bug fix - Board does not re-size correctly
