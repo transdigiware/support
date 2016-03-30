@@ -2,6 +2,9 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.15.93 (03/30/2016)
+<p> ☂ Bug fix - new label cache implemented to keep label changes in-sync with the rest of GitHub
+
 #2.15.87 (03/21/2016)
 <p> ☂ Bug fix - fixed bug with multi-org burndown charts
 
