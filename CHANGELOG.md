@@ -2,6 +2,10 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.15.94 (03/31/2016)
+<p> ☂ Bug fix - fix GitHub reactions tool tip
+<p> ☂ Bug fix - resolve board merge tool issue where number of issues per pipelines was not displaying
+
 #2.15.93 (03/30/2016)
 <p> ☂ Bug fix - new label cache implemented to keep label changes in-sync with the rest of GitHub
 
