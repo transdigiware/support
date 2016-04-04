@@ -1,6 +1,11 @@
 ## Welcome ZenHubber!
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
+
+#2.16.11 (04/04/2016)
+<p> ☼ <b>NEW</b> - Epics!
+<p> ☂ Bug fix - fix issue list showing incorrect pipelines
+
 #2.15.97 (04/01/2016)
 <p> ☼ <b>NEW</b> - Speed refactor for board movement updates 
 <p> ☂ Bug fix - Fix duplication of movement events when using the back button after looking at a commit 
