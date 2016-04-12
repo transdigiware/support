@@ -2,6 +2,11 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.16.25 (04/12/2016)
+<p> ☼ <b>NEW</b> The epic selector on the issue page now supports multi-repo epics 
+<p> ☂ Bug fix - Empty boards now load without hanging 
+<p> ☂ Bug fix - Onboarding copy updated 
+
 #2.16.21 (04/05/2016)
 <p> ☼ <b>NEW</b> Add estimate totals to the closed pipeline
 <p> ☼ <b>NEW</b> Various small improvements to the epics
