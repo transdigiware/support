@@ -2,6 +2,10 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.16.27 (04/12/2016)
+<p> ☂ Bug fix - fix for deleted milestones not being updated in the cache
+<p> ☂ Bug fix - assignee filter incorrect name updated
+
 #2.16.25 (04/12/2016)
 <p> ☼ <b>NEW</b> The epic selector on the issue page now supports multi-repo epics 
 <p> ☂ Bug fix - Empty boards now load without hanging 
