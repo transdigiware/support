@@ -2,6 +2,13 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.16.30 (04/15/2016)
+<p> ☼ <b>NEW</b> Performance refactor (Chrome only) 
+<p> ☂ Bug fix - fix bug on pipeline renames
+<p> ☂ Bug fix - move the board status indicator so it does not break the page flow
+<p> ☂ Bug fix - fix sidebar bug for epics 
+<p> ☂ Bug fix - bug fix for creating issues with references to other issues 
+
 #2.16.27 (04/12/2016)
 <p> ☂ Bug fix - fix for deleted milestones not being updated in the cache
 <p> ☂ Bug fix - assignee filter incorrect name updated
