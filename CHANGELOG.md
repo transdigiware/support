@@ -2,6 +2,10 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.16.37 (04/22/2016)
+<p> ☼ <b>NEW</b> - Burndowns store milestone information in the URL
+<p> ☂ Bug fix - fix sidebar on popups
+
 #2.16.32 (04/18/2016)
 <p> ☂ Bug fix - better epic filtering on the board 
 <p> ☂ Bug fix - pipelines and estimates not being saved on issues created via the board
