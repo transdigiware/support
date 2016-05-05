@@ -36,7 +36,7 @@ Let your team and followers know you're using ZenHub by adding this snippet to y
 - Press `F` to open the Rapid Repo Switcher.
 
 
-# ZenHub-Now Issue Creation
+# ZenHub - New Issue Creation
 
 Do you have a ZenHub feature request? spotted a bug? or just want to give some feedback? Create an issue here and we will get back to you!
 
