@@ -3,18 +3,21 @@
 ZenHub Support
 ==========
 
-Welcome to our public-facing ZenHub repo. Here you can submit issues, vote on feature requests, or just say hi!
+Welcome to our public ZenHub repo. Here you can submit issues, vote on feature requests, or just say hi!
 
 # What is Zenhub?
-ZenHub is a lightweight browser extension that injects features directly into GitHub's native interface. It adds a key, strategic dimension to GitHub allowing team collaboration, customizable kanban-style Issue boards, reporting and more.
+ZenHub is how the world's best development teams work together. 
 
-Learn about our features on [our website](https://www.zenhub.io/)!
+As the only project management tool integrated natively in GitHub, ZenHub's lightweight extension adds a collection of collaboration-enhancing features – like Task Boards, a reporting suite, personal task management, and more – directly into GitHub’s UI, creating a single source of truth for the entire company.
+
+
+Learn about our features on [our website](https://www.zenhub.com/)!
 
 # Installation
 
-Find us in the Chrome Web Store or follow this [link](https://www.zenhub.io/)!
+Download ZenHub for Firefox or Chrome at this [link](https://www.zenhub.com/)!
 
-# "Supercharged by ZenHub"
+# Tell collaborators you're using ZenHub
 Let your team and followers know you're using ZenHub by adding this snippet to your repo's README.md file:
 
 ```html
@@ -23,24 +26,26 @@ Let your team and followers know you're using ZenHub by adding this snippet to y
 <a href="https://zenhub.io"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
 
 # Features
-- [Boards](https://www.zenhub.io/features#boards)
-- [Repo Switcher](https://www.zenhub.io/features#repo-switcher)
-- [Reporting](https://www.zenhub.io/burndownChart)
-- [To-Do Lists](https://www.zenhub.io/ToDo-agile-task-management)
-- More [goodies](https://www.zenhub.io/features)
+- Flexible task boards with Multi-Repo support
+- Epics inside Github 
+- Story point estimates on issues 
+- A reporting suite, including multi-repository burndown charts integrated with Milestones 
+- A handy Repo Switcher 
+- To-Do lists for private task management
+- More [goodies](https://www.zenhub.com/features)
 
-# Protips!
+# Pro tips
 - Press `B` to open the Board from any repo. Check out how we're using it to power this repo!
 - Press `D` to open the Burndown Chart.
-- Press `Z` to open your personnal To-Do list.
+- Press `Z` to open your personal To-Do list.
 - Press `F` to open the Rapid Repo Switcher.
 
 
 # ZenHub - New Issue Creation
 
-Do you have a ZenHub feature request? spotted a bug? or just want to give some feedback? Create an issue here and we will get back to you!
+Do you have a ZenHub feature request? Spotted a bug? Or just want to give some feedback? Create an issue here and we will get back to you.
 
-We use ZenHub to help make this process easy, visit our board to see the current issues, organized as
+We use ZenHub to help make this process easy. Visit our board to see the current issues, organized as:
 
 ### 1 - New Issues (to be reviewed)
 
@@ -63,11 +68,15 @@ Bugs! Issues we know about and are working to resolve.
 
 Features that we have yet to prioritize.
 
-Please check these out first before raising a new issue to help us avoid duplicates, if you have a question, you might be able to find a response in our FAQ - https://www.zenhub.io/#support
+Please check these out first before raising a new issue to help us avoid duplicates, if you have a question, you might be able to find a response in our FAQ - https://www.zenhub.com/support
 
 We aim to be as responsive as possible on this board, it's used by our whole team so someone will get back to you! If you feel your issue isn't getting any love or would like an update, feel free to give it a bump in the comments. You can really help us here by making sure you provide all the details we need - such as version number and steps to replicate for a bug report, or a clear use case for a feature request.
 
-If you would rather give feedback in private, you are welcome to email us at support@zenhub.io
+If you would rather give feedback in private, you are welcome to email us at support@zenhub.com. 
+
+# Using GitHub Enterprise? 
+
+Visit ZenHub.com/Enterprise to get started with a free trial of ZenHub Enterprise, our on-premise solution. 
 
 
 
