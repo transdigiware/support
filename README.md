@@ -1,7 +1,6 @@
-<a href="https://zenhub.io"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
+<a href="https://zenhub.com"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
 
-ZenHub Support
-==========
+# ZenHub Support
 
 Welcome to our public ZenHub repo. Here you can submit issues, vote on feature requests, or just say hi!
 
@@ -10,20 +9,20 @@ ZenHub is how the world's best development teams work together.
 
 As the only project management tool integrated natively in GitHub, ZenHub's lightweight extension adds a collection of collaboration-enhancing features – like Task Boards, a reporting suite, personal task management, and more – directly into GitHub’s UI, creating a single source of truth for the entire company.
 
-
 Learn about our features on [our website](https://www.zenhub.com/)!
 
 # Installation
 
 Download ZenHub for Firefox or Chrome at this [link](https://www.zenhub.com/)!
 
-# Tell collaborators you're using ZenHub
+## Tell collaborators you’re using ZenHub
+
 Let your team and followers know you're using ZenHub by adding this snippet to your repo's README.md file:
 
 ```html
-<a href="https://zenhub.io"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
+<a href="https://zenhub.com"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
 ```
-<a href="https://zenhub.io"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
+<a href="https://zenhub.com"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
 
 # Features
 - Flexible task boards with Multi-Repo support
@@ -34,12 +33,12 @@ Let your team and followers know you're using ZenHub by adding this snippet to y
 - To-Do lists for private task management
 - More [goodies](https://www.zenhub.com/features)
 
-# Pro tips
-- Press `B` to open the Board from any repo. Check out how we're using it to power this repo!
-- Press `D` to open the Burndown Chart.
-- Press `Z` to open your personal To-Do list.
-- Press `F` to open the Rapid Repo Switcher.
 
+# Pro tips
+- Press <kbd>B</kbd> to open the Board from any repo. Check out how we're using it to power this repo!
+- Press <kbd>D</kbd> to open the Burndown Chart.
+- Press <kbd>Z</kbd> to open your personal To-Do list.
+- Press <kbd>F</kbd> to open the Rapid Repo Switcher.
 
 # ZenHub - New Issue Creation
 
@@ -63,7 +62,6 @@ Features that the ZenHub team are working on, or will be in the future.
 
 Bugs! Issues we know about and are working to resolve.
 
-
 ### 5 - Community Icebox
 
 Features that we have yet to prioritize.
@@ -76,7 +74,7 @@ If you would rather give feedback in private, you are welcome to email us at sup
 
 # Using GitHub Enterprise? 
 
-Visit ZenHub.com/Enterprise to get started with a free trial of ZenHub Enterprise, our on-premise solution. 
+Visit www.zenhub.com/enterprise to get started with a free trial of ZenHub Enterprise, our on-premise solution. 
 
 
 
