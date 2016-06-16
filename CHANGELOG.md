@@ -2,6 +2,11 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.18.2
+<p> ☼ <b>NEW</b> - Quick issue creation on '#' 
+<p> ☂ Bug fix - Estimate precision bug
+<p> ☂ Bug fix - improve getIssues performance 
+
 #2.17.01 (06/09/2016)
 <p> ☼ <b>NEW</b> - Move issue now allows you to copy an issue as well (the issue will not close)
 <p> ☂ Bug fix -  'Escape bug' on the board modal has been fixed 
