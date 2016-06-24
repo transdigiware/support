@@ -1,54 +1,63 @@
+# ZenHub 
+
 <a href="https://zenhub.com"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
 
-# ZenHub Support
+**ZenHub is how the world's best development teams work together.** 🎈 
 
-Welcome to our public ZenHub repo. Here you can submit issues, vote on feature requests, or just say hi!
+As the only project management tool integrated natively in GitHub’s UI, ZenHub helps you stay in your workflow without distractions. There are no new queues to check, entries to update, or priorities to manage outside GitHub. 
 
-# What is Zenhub?
-ZenHub is how the world's best development teams work together. 
+Because ZenHub’s features are powered by native GitHub issues, it doesn’t create more process – it gets out of your way so you can focus on shipping awesome products.
 
-As the only project management tool integrated natively in GitHub, ZenHub's lightweight extension adds a collection of collaboration-enhancing features – like Task Boards, a reporting suite, personal task management, and more – directly into GitHub’s UI, creating a single source of truth for the entire company.
+Download the ZenHub extension for Firefox or Chrome [here](http://www.zenhub.com). It’s free for public, academic, and personal repositories. 
 
-Learn about our features on [our website](https://www.zenhub.com/)!
+## About this repo 
 
-# Installation
+This is a place for the ZenHub community to add feature requests, discuss improvements,  and submit feedback. We respond to issues as quickly as we can, but for even quicker response to support-related queries, shoot us [an email](mailto:support@zenhub.com) or tweet us [@ZenHubHQ](http://www.twitter.com/zenhubhq).  
 
-Download ZenHub for Firefox or Chrome at this [link](https://www.zenhub.com/)!
+Read our [Changelog here](https://github.com/ZenHubIO/support/blob/master/CHANGELOG.md) or check out our [API documentation](https://github.com/ZenHubIO/API). 
+
 
 ## Tell collaborators you’re using ZenHub
 
-Let your team and followers know you're using ZenHub by adding this snippet to your repo's README.md file:
+Adding the ZenHub badge to your ReadMe makes it easier for others to collaborate with you. Add this snippet to your repo’s README.md file: 
 
 ```html
 <a href="https://zenhub.com"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
 ```
-<a href="https://zenhub.com"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
 
-# Features
-- Flexible task boards with Multi-Repo support
-- Epics inside Github 
-- Story point estimates on issues 
-- A reporting suite, including multi-repository burndown charts integrated with Milestones 
-- A handy Repo Switcher 
-- To-Do lists for private task management
-- More [goodies](https://www.zenhub.com/features)
+**Want sweet ZenHub swag? [Email us](mailto:support@zenhub.com) a link to your ReadMe displaying the ZenHub badge. Include your address, and we’ll send you some goodies!** 🎉 
 
+## Features
 
-# Pro tips
-- Press <kbd>B</kbd> to open the Board from any repo. Check out how we're using it to power this repo!
-- Press <kbd>D</kbd> to open the Burndown Chart.
-- Press <kbd>Z</kbd> to open your personal To-Do list.
-- Press <kbd>F</kbd> to open the Rapid Repo Switcher.
+### Task boards with multi-repo support
+![board 1](https://cloud.githubusercontent.com/assets/8771909/10051076/8a8ca5bc-61d4-11e5-98ae-1942c8a29e33.png)
+**Flexible Boards** enable teams to visualize entire projects without leaving GitHub. Whether you prefer kanban, agile, or your own flavor of workflow, ZenHub supports it all. You can also connect task boards for projects that span several repos or even organizations. 
 
-# ZenHub - New Issue Creation
+### Epics inside Github 
+![Epics](https://cloud.githubusercontent.com/assets/8771909/15079255/5517f82e-136c-11e6-8773-dd861282bae6.jpg)
+By adding a crucial “extra layer” of hierarchy to your issues, Epics make it easy to build, execute, and maintain a healthy product backlog. 
 
-Do you have a ZenHub feature request? Spotted a bug? Or just want to give some feedback? Create an issue here and we will get back to you.
+### Slack Integration
+Our **Slack Integration** keeps you updated on key project activity across any device. Track issue progress, estimates, Task Board updates, and more.
 
-We use ZenHub to help make this process easy. Visit our board to see the current issues, organized as:
+### Burndown Charts & Issue Estimates 
+![burndown 1](https://cloud.githubusercontent.com/assets/8771909/10032793/1ff10ca6-613a-11e5-8528-f220414775ef.png)
+Assign time or **complexity estimates** to issues, then track your progress using Milestone-integrated Burndown Charts. 
+
+### Private task management 
+![ToDo](https://cloud.githubusercontent.com/assets/8771909/15087781/0f5d85a8-13a1-11e6-9963-9d9ba3c773c6.jpg)
+Add any issue or pull request as a personal task, then organize your *private to-do lists* by day, project, or something totally unique.
+
+### And way more
+Find out more on our [website](http://www.zenhub.com). 
+
+## Submitting issues 
+
+We use ZenHub to help make this process easy.  Visit our task board (press `b` with ZenHub installed) to see current issues, organized as:
 
 ### 1 - New Issues (to be reviewed)
 
-The first pipeline an issue will hit - this lets us know what needs our attention.
+The first pipeline an issue will hit. This lets us know what needs our attention.
 
 ### 2 - Discussion
 
@@ -60,21 +69,19 @@ Features that the ZenHub team are working on, or will be in the future.
 
 ### 4 - Known Issues
 
-Bugs! Issues we know about and are working to resolve.
+Issues we know about and are working to resolve.
 
 ### 5 - Community Icebox
 
 Features that we have yet to prioritize.
 
-Please check these out first before raising a new issue to help us avoid duplicates, if you have a question, you might be able to find a response in our FAQ - https://www.zenhub.com/support
+Help avoid duplicates by checking these first before submitting an issue. 
 
-We aim to be as responsive as possible on this board, it's used by our whole team so someone will get back to you! If you feel your issue isn't getting any love or would like an update, feel free to give it a bump in the comments. You can really help us here by making sure you provide all the details we need - such as version number and steps to replicate for a bug report, or a clear use case for a feature request.
+## Using GitHub Enterprise? 
 
-If you would rather give feedback in private, you are welcome to email us at support@zenhub.com. 
-
-# Using GitHub Enterprise? 
-
-Visit www.zenhub.com/enterprise to get started with a free trial of ZenHub Enterprise, our on-premise solution. 
+Visit our [website](http://www.zenhub.com/enterprise) to get started with a free trial of ZenHub Enterprise, our on-premise solution. 
 
 
+-----
 
+*P.S. We write project management and collaboration tips just for GitHubbers [on our blog.](http://www.zenhub.com/blog)* ✌️ 
