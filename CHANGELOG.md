@@ -3,7 +3,7 @@
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 #2.18.8
 <p> ☼ <b>NEW</b> - re-prioritize issue in pipeline via sidebar 
-<p> ☂ Bug fix - read-only issue on public boards
+<p> ☂ Bug fix - Data not displaying on read-only public boards
 
 #2.18.2
 <p> ☼ <b>NEW</b> - Quick issue creation on '#' 
