@@ -71,7 +71,7 @@ Features that the ZenHub team are working on, or will be in the future.
 
 Issues we know about and are working to resolve.
 
-### 5 - Upnext 
+### 5 - Up Next 
 
 The next few big issues that are in the pipeline
 
