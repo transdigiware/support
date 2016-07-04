@@ -71,7 +71,15 @@ Features that the ZenHub team are working on, or will be in the future.
 
 Issues we know about and are working to resolve.
 
-### 5 - Community Icebox
+### 5 - Upnext 
+
+The next few big issues that are in the pipeline
+
+### 6 - In Progress
+
+What we are working on right now 
+
+### 7 - Community Icebox
 
 Features that we have yet to prioritize.
 
