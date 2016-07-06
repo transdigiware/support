@@ -1,6 +1,12 @@
 ## Welcome ZenHubber!
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
+
+#2.19.1
+<p> ☼ <b>NEW</b> Show multiple assignees in board view 
+<p> ☂ Bug fix - fix tooltip on assignee filter
+<p> ☂ Bug fix - fix epic shortcut key
+
 #2.18.8
 <p> ☼ <b>NEW</b> - re-prioritize issue in pipeline via sidebar 
 <p> ☂ Bug fix - Data not displaying on read-only public boards
