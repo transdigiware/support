@@ -2,6 +2,12 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.21.1 (07/22/2016)
+<p> ☼ <b>NEW</b> Speed improvements for drag and drop
+<p> ☼ <b>NEW</b> full screen board now has a URL parameter 
+<p> ☼ <b>NEW</b> expanded pipelines show the full card
+
+
 #2.20.10 (07/16/2016)
 <p> ☂ Bug fix - Epic issues were not being created
 
