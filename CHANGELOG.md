@@ -2,7 +2,13 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
-#2.21.2 (0725/2016)
+
+#2.23.15 (08/11/2016)
+<p> ☼ <b>NEW</b> hide PR's from burndown
+<p> ☂ Bug fix - show features as read only for read only users 
+Other - temp removal of pipeline reprioritizing 
+
+#2.21.2 (07/25/2016)
 <p> ☂ Bug fix - pipeline expand settings resetting on issue movement 
 <p> ☂ Bug fix - long repo names expanding cards
 <p> ☂ Bug fix - fix compatibilty issue with older chrome versions
