@@ -2,6 +2,8 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.23.15 (08/15/2016)
+<p> ☂ Bug fix - fix error with URL sharing
 
 #2.23.15 (08/11/2016)
 <p> ☼ <b>NEW</b> hide PR's from burndown
