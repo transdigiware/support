@@ -2,6 +2,10 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.23.17 (08/18/2016)
+<p> ☼ <b>NEW</b> Milestones are shown on the issue card
+<p> ☂ Bug fix - arrow keys now work in filters
+
 #2.23.15 (08/15/2016)
 <p> ☂ Bug fix - fix error with URL sharing
 
