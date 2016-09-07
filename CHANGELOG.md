@@ -3,6 +3,10 @@
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
 
+#2.23.30 (09/07/2016)
+<p> ☼ <b>NEW</b> - Performance updates 
+<p> ☼ <b>NEW</b> - Select pipelines to be marked as completed in the burndown chart
+
 #2.23.19 (08/23/2016)
 <p> ☼ <b>NEW</b> - filter burndown by label
 <p> ☂ Bug fix - warning message for trying to rename a MRB pipeline 
