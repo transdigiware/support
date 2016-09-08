@@ -2,6 +2,9 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.23.34 (09/07/2016)
+<p> ☂ Bug fix - TODO page not loading 
+<p> ☂ Bug fix - epics page not loading 
 
 #2.23.30 (09/07/2016)
 <p> ☼ <b>NEW</b> - Performance updates 
