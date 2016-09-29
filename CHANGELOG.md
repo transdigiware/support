@@ -6,6 +6,7 @@
 <p> ☼ <b>NEW</b> - Advanced filtering - 'Not' filters
 <p> ☼ <b>NEW</b> - Reprioritize issues from this issue page
 <p> ☼ <b>NEW</b> - Custom webhooks
+<p> ☼ <b>NEW</b> - Epic endpoints added to the API
 
 #2.23.34 (09/07/2016)
 <p> ☂ Bug fix - TODO page not loading 
