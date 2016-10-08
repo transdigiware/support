@@ -2,6 +2,11 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.24.12 (10/07/2016)
+<p> ☂ Bug fix - keyboard shortcut bug in edit pages
+<p> ☂ Bug fix - topbar covered part of GH menu 
+<p> ☂ Bug fix - add estimate field to new PR
+
 #2.24.6 (09/28/2016)
 <p> ☼ <b>NEW</b> - Advanced filtering - 'Not' filters
 <p> ☼ <b>NEW</b> - Reprioritize issues from this issue page
