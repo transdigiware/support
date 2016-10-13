@@ -8,7 +8,7 @@ As the only project management tool integrated natively in GitHub’s UI, ZenHub
 
 Because ZenHub’s features are powered by native GitHub issues, it doesn’t create more process – it gets out of your way so you can focus on shipping awesome products.
 
-Download the ZenHub extension for Firefox or Chrome [here](http://www.zenhub.com). It’s free for public, academic, and personal repositories. 
+Download the ZenHub extension for Firefox or Chrome [here](http://www.zenhub.com). It’s free for public, academic, and personal repositories. It's also free for teams under six on unlimited private repositories! 
 
 ## About this repo 
 
