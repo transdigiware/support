@@ -2,7 +2,11 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
-#2.24.14 (10/12/2016)
+#2.24.13 (10/14/2016)
+<p> ☼ <b>NEW</b> - change assignee filter behaviour
+<p> ☂ Bug fix - 'show all' button fix 
+
+#2.24.13 (10/12/2016)
 <p> ☂ Bug fix - bug fix for projects API when disconnecting a repo 
 <p> ☂ Bug fix - fix 'filter by epic' behaviour
 
