@@ -5,6 +5,7 @@
 #2.24.18 (10/21/2016)
 <p> ☂ Bug fix - Epics not saving preview content
 <p> ☂ Bug fix - repo switcher throwing javascript error
+<p> ☂ Bug fix - fix epic filter
 
 #2.24.14 (10/14/2016)
 <p> ☼ <b>NEW</b> - change assignee filter behaviour
