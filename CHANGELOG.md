@@ -2,6 +2,10 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.24.23(10/27/2016)
+<p> ☂ Bug fix - ToDo not showing 
+<p> ☂ Bug fix - Burndowns not generating
+
 #2.24.21 (10/26/2016)
 <p> ☼ <b>NEW</b> - Epics dropdown added to board UI
 <p> ☼ <b>NEW</b> - Ability to add an issue to an epic from the new issues page
