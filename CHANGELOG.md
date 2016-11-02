@@ -2,6 +2,9 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.24.23(11/02/2016)
+<p> ☼ <b>NEW</b> - sortable pipelines 
+
 #2.24.23(10/27/2016)
 <p> ☂ Bug fix - ToDo not showing 
 <p> ☂ Bug fix - Burndowns not generating
