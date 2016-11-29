@@ -2,6 +2,9 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.24.36 (11/29/2016)
+<p> ☼ <b>NEW</b> - sort issue by creation date
+
 #2.24.34 (11/24/2016)
 <p> ☼ <b>NEW</b> - Manual sorting option added as default
 <p> ☂ Bug fix - repo switcher hotkey
