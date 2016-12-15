@@ -2,6 +2,8 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.25.5 (12/13/2016)
+<p> ☼ <b>NEW</b> - show epic name on child issues
 
 #2.25.2 (12/05/2016)
 <p> ☼ <b>NEW</b> - Select multiple issues and perform actions 
