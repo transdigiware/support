@@ -2,6 +2,9 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.25.21 (01/06/2017)
+<p> ☼ <b>NEW</b> - multi-repo milestone creation from the board
+
 #2.25.15 (12/22/2016)
 <p> ☼ <b>NEW</b> - better nesting of child issues for epics
 
