@@ -30,22 +30,30 @@ Adding the ZenHub badge to your ReadMe makes it easier for others to collaborate
 ## Features
 
 ### Task boards with multi-repo support
-![board 1](https://cloud.githubusercontent.com/assets/8771909/10051076/8a8ca5bc-61d4-11e5-98ae-1942c8a29e33.png)
+
+![board 1](https://raw.githubusercontent.com/ZenHubIO/support/master/multirepoboard.png)
+
 **Flexible Boards** enable teams to visualize entire projects without leaving GitHub. Whether you prefer kanban, agile, or your own flavor of workflow, ZenHub supports it all. You can also connect task boards for projects that span several repos or even organizations. 
 
 ### Epics inside Github 
+
 ![Epics](https://cloud.githubusercontent.com/assets/8771909/15079255/5517f82e-136c-11e6-8773-dd861282bae6.jpg)
+
 By adding a crucial “extra layer” of hierarchy to your issues, Epics make it easy to build, execute, and maintain a healthy product backlog. 
 
 ### Slack Integration
 Our **Slack Integration** keeps you updated on key project activity across any device. Track issue progress, estimates, Task Board updates, and more.
 
 ### Burndown Charts & Issue Estimates 
+
 ![burndown 1](https://cloud.githubusercontent.com/assets/8771909/10032793/1ff10ca6-613a-11e5-8528-f220414775ef.png)
+
 Assign time or **complexity estimates** to issues, then track your progress using Milestone-integrated Burndown Charts. 
 
 ### Private task management 
+
 ![ToDo](https://cloud.githubusercontent.com/assets/8771909/15087781/0f5d85a8-13a1-11e6-9963-9d9ba3c773c6.jpg)
+
 Add any issue or pull request as a personal task, then organize your *private to-do lists* by day, project, or something totally unique.
 
 ### And way more
@@ -55,13 +63,13 @@ Find out more on our [website](http://www.zenhub.com).
 
 We use ZenHub to help make this process easy.  Visit our task board (press `b` with ZenHub installed) to see current issues, organized as:
 
-### 1 - New Issues (to be reviewed)
+### 1 - Inbox (to be reviewed)
 
-The first pipeline an issue will hit. This lets us know what needs our attention.
+The first pipeline a new issue will hit. This lets us know what needs our attention.
 
 ### 2 - Discussion
 
-An issue will get moved here when we are looking for some community feedback, so don't forget to add GitHub reactions to those issues you would like to see!
+An issue will get moved here when we are looking for some community feedback, so don't forget to add GitHub reactions to those issues you would like to see! Bug reports or issues awaiting replies will also be moved to discussion to keep the inbox clear.
 
 ### 3 - Community Backlog
 
@@ -71,19 +79,28 @@ Features that the ZenHub team are working on, or will be in the future.
 
 Issues we know about and are working to resolve.
 
+### 4 - Priorities
+
+Features/feedback we are actively looking into that align with our roadmap and future milestones.
+
 ### 5 - Up Next 
 
-The next few big issues that are in the pipeline
+The next few big issues that are in the pipeline.
 
 ### 6 - In Progress
 
-What we are working on right now 
+What we are currently working on. 
 
-### 7 - Community Icebox
+---
 
-Features that we have yet to prioritize.
+### 7 - Pipelines that will be phased out
 
-Help avoid duplicates by checking these first before submitting an issue. 
+- Community backlog
+- Community Icebox
+
+We're working to increase the visibility of what we're up to here at ZenHub. We'll be moving issues from these two pipelines into their appropriate new home, Discussion/Priorities/Up Next/In Progress.
+
+Help avoid duplicates by checking the board first to see if someone else is already talking about it before submitting an issue.
 
 ## Using GitHub Enterprise? 
 
