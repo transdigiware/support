@@ -2,6 +2,11 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
+#2.26.2(01/23/2017)
+<p> ☼ <b>NEW</b> - update epic list page and epic estimate totals
+<p> ☂ Bug fix - fix middle click on board view 
+<p> ☂ Bug fix - fix encoding error in URL 
+
 #2.25.22 (01/06/2017)
 <p> ☼ <b>NEW</b> - include estimates for multi-select
 
