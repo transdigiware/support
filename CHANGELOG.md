@@ -10,7 +10,7 @@
 
 #2.26.4 (01/25/2017)
 <p> ☼ <b>NEW</b> - Better issues lists within epics that show issues by pipeline
-<p> ☼ <b>NEW</b> - With better issue lists and nested epics, you'll now see _epic points_ within the issue list on an epic 
+<p> ☼ <b>NEW</b> - With better issue lists and nested epics, you'll now see `epic points` within the issue list on an epic 
 
 #2.26.2 (01/23/2017)
 <p> ☼ <b>NEW</b> - update epic list page and epic estimate totals
