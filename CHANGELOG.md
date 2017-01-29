@@ -2,7 +2,17 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
 
-#2.26.2(01/23/2017)
+#2.26.7 (01/26/2017)
+<p> ☂ Bug fix - Fixes the `not:` filter not working for Epics
+<p> ☂ Bug fix - Fixes the velocity report crashing for repos without a board
+<p> ☂ Bug fix - Fixes the _See this Epic in the Board_ button so it will show the Epic and its descendants on the Board when clicked.
+<p> ☂ Bug fix - Fixes issues and labels with special characters encoding properly in a share URL
+
+#2.26.4 (01/25/2017)
+<p> ☼ <b>NEW</b> - Better issues lists within epics that show issues by pipeline
+<p> ☼ <b>NEW</b> - With better issue lists and nested epics, you'll now see `epic points` within the issue list on an epic 
+
+#2.26.2 (01/23/2017)
 <p> ☼ <b>NEW</b> - update epic list page and epic estimate totals
 <p> ☂ Bug fix - fix middle click on board view 
 <p> ☂ Bug fix - fix encoding error in URL 
