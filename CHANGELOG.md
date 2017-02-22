@@ -1,6 +1,37 @@
 ## Welcome ZenHubber!
 
-[Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! We're [here](https://github.com/axiomzen/zenhub-now) if you need help.
+[Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! Get in touch at support@zenhub.com if you need help getting started.
+
+#2.29.19 (02/20/2017)
+<p> ☂ Bug fix - Transparent avatar images will now properly appear on the Board without the default avatar appearing in the background
+<p> ☂ Bug fix - In some cases connections between issues and pull requests were being lost when they shouldn't have been
+
+#2.29.9 (02/09/2017)
+<p> ☼ <b>NEW</b> - You can now create a new Pipeline from the + button right of the New Issue button
+<p> ☼ <b>NEW</b> - Added significant performance improvements when you take actions on your task Board
+
+#2.29.7 (02/08/2017)
+<p> ☼ <b>NEW</b> - Added additional audit logs for connections between issues and pull requests
+
+#2.29.4 (02/08/2017)
+<p> ☂ Bug fix - Updated the format of estimates on the Epic creator
+<p> ☂ Bug fix - Fixed a bug that was causing the issue to not show the Epic features when it was transformed into an Epic
+
+#2.29.2 (02/07/2017)
+<p> ☂ Bug fix - When you don't have a network connection there's now better error message indicating such
+
+#2.29.1 (02/07/2017)
+<p> ☼ <b>NEW</b> - The labels filter now has an option to filter issues `without` labels 
+
+#2.28.3 (02/06/2017)
+<p> ☂ Bug fix - When closing the issue modal, titles and comments will no longer be lost
+
+#2.28.1 (01/31/2017)
+<p> ☼ <b>NEW</b> - Connect issues to pull requests to automate the movement of issues across the board. [Learn more...](https://www.zenhub.com/documentation/visualize-my-github-workflow#issue-pr-linking)
+
+#2.27.3 (01/31/2017)
+<p> ☼ <b>NEW</b> - Launched board view settings, where you can now customize what properities appear not only on the board, but also on issue cards
+<p> ☼ <b>NEW</b> - Improved performance for loading times of Epic issue list
 
 #2.26.7 (01/26/2017)
 <p> ☂ Bug fix - Fixes the `not:` filter not working for Epics
