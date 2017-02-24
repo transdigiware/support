@@ -574,7 +574,7 @@ Other - temp removal of pipeline reprioritizing
 
 <p>☼ <b>NEW</b> Now able to scroll when moving an Issue from one pipeline to another
 <p>☂ Improved update time when switching pipelines from within an existing Issue
-<p>☂ Removed uncessary error message in the notifications popup
+<p>☂ Removed unnecessary error message in the notifications popup
 
 ## v0.6.42 (06/18/2014)
 
