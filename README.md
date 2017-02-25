@@ -27,7 +27,7 @@ Adding the ZenHub badge to your ReadMe makes it easier for others to collaborate
 
 **Want sweet ZenHub swag? [Email us](mailto:support@zenhub.com) a link to your ReadMe displaying the ZenHub badge. Include your address, and we’ll send you some goodies!** 🎉 
 
-## Helpful Resources
+## Helpful resources
 
 Read through our **product documentation** to learn more on how ZenHub is crafted specifically for fast-moving software teams. It transforms GitHub into a fully featured project management platform. **[Documentation located here](http://bit.ly/2l9w4QE)**.
 
@@ -41,7 +41,7 @@ Contact us at through support@zenhub.com with questions, feedback, or to chat ag
 
 You can also submit a new issue here to the support repo and the team will respond, tag, and shuffle the issue to it's appropriate pipeline to keep you updated on the status of your feedback or questions.
 
-## Product Features
+## Product features
 
 ### Task boards with multi-repo support
 
@@ -58,7 +58,7 @@ By adding a crucial “extra layer” of hierarchy to your issues, Epics make it
 ### Slack Integration
 Our **Slack Integration** keeps you updated on key project activity across any device. Track issue progress, estimates, Task Board updates, and more.
 
-### Burndown Charts & Issue Estimates 
+### Burndown charts & issue estimates 
 
 ![burndown 1](https://gallery.mailchimp.com/b96a9ae839e33bdad2bc9db25/images/2ddd3b73-2d2a-4f0e-ab2b-239adfb79fd6.png)
 
@@ -111,7 +111,7 @@ Help avoid duplicates by checking the board first to see if someone else is alre
 
 ## Using GitHub Enterprise? 
 
-Visit our [website](http://www.zenhub.com/enterprise) to get started with a free trial of ZenHub Enterprise, our on-premise solution. 
+Visit our [website](http://www.zenhub.com/enterprise) to get in touch and kick off a free trial of ZenHub Enterprise, our on-premise solution. 
 
 
 ✌️ 
