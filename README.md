@@ -27,17 +27,31 @@ Adding the ZenHub badge to your ReadMe makes it easier for others to collaborate
 
 **Want sweet ZenHub swag? [Email us](mailto:support@zenhub.com) a link to your ReadMe displaying the ZenHub badge. Include your address, and we’ll send you some goodies!** 🎉 
 
-## Features
+## Helpful Resources
+
+Read through our **product documentation** to learn more on how ZenHub is crafted specifically for fast-moving software teams. It transforms GitHub into a fully featured project management platform. **[Documentation located here](http://bit.ly/2l9w4QE)**.
+
+Grab a copy of our **[latest book](http://bit.ly/2mmMPtv), Better Software and Stronger Teams** to learn more on building better software and empowering fast-moving teams with agile workflows.
+
+Stay up-to-date with the latest releases and content on project management by **[subscribing to our blog here](http://bit.ly/2mmWHU1)** or by bookmarking our **[Changelog located here](http://bit.ly/2lP3isw)**.
+
+## Get in touch with us
+
+Contact us at through support@zenhub.com with questions, feedback, or to chat agile project management! We operate in Pacific Time, but support users globally so feel free to send us a note at anytime ✨.
+
+You can also submit a new issue here to the support repo and the team will respond, tag, and shuffle the issue to it's appropriate pipeline to keep you updated on the status of your feedback or questions.
+
+## Product Features
 
 ### Task boards with multi-repo support
 
-![board 1](https://raw.githubusercontent.com/ZenHubIO/support/master/multirepoboard.png)
+![board 1](https://gallery.mailchimp.com/b96a9ae839e33bdad2bc9db25/images/388285ae-4bd4-4930-8f9b-0a6a78984899.png)
 
 **Flexible Boards** enable teams to visualize entire projects without leaving GitHub. Whether you prefer kanban, agile, or your own flavor of workflow, ZenHub supports it all. You can also connect task boards for projects that span several repos or even organizations. 
 
 ### Epics inside Github 
 
-![Epics](https://cloud.githubusercontent.com/assets/8771909/15079255/5517f82e-136c-11e6-8773-dd861282bae6.jpg)
+![Epics](https://gallery.mailchimp.com/b96a9ae839e33bdad2bc9db25/images/4a35b324-ac05-4fac-b51f-b92a8eedbb5d.png)
 
 By adding a crucial “extra layer” of hierarchy to your issues, Epics make it easy to build, execute, and maintain a healthy product backlog. 
 
@@ -46,20 +60,20 @@ Our **Slack Integration** keeps you updated on key project activity across any d
 
 ### Burndown Charts & Issue Estimates 
 
-![burndown 1](https://cloud.githubusercontent.com/assets/8771909/10032793/1ff10ca6-613a-11e5-8528-f220414775ef.png)
+![burndown 1](https://gallery.mailchimp.com/b96a9ae839e33bdad2bc9db25/images/2ddd3b73-2d2a-4f0e-ab2b-239adfb79fd6.png)
 
 Assign time or **complexity estimates** to issues, then track your progress using Milestone-integrated Burndown Charts. 
 
-### Private task management 
+### Velocity tracking
 
-![ToDo](https://cloud.githubusercontent.com/assets/8771909/15087781/0f5d85a8-13a1-11e6-9963-9d9ba3c773c6.jpg)
+![burndown 1](https://gallery.mailchimp.com/b96a9ae839e33bdad2bc9db25/images/e13369af-88e9-49f9-88e9-9fbcf2d2ed5e.png)
 
-Add any issue or pull request as a personal task, then organize your *private to-do lists* by day, project, or something totally unique.
+Velocity charts reveal how much work you can **reasonably commit to**, which is especially helpful when planning sprints. 
 
-### And way more
-Find out more on our [website](http://www.zenhub.com). 
+### And much more!
+Find out more on our **[website](http://www.zenhub.com)**. 
 
-## Submitting issues 
+## Submitting issues to the support repo
 
 We use ZenHub to help make this process easy.  Visit our task board (press `b` with ZenHub installed) to see current issues, organized as:
 
@@ -93,13 +107,6 @@ What we are currently working on.
 
 ---
 
-### 7 - Pipelines that will be phased out
-
-- Community backlog
-- Community Icebox
-
-We're working to increase the visibility of what we're up to here at ZenHub. We'll be moving issues from these two pipelines into their appropriate new home, Discussion/Priorities/Up Next/In Progress.
-
 Help avoid duplicates by checking the board first to see if someone else is already talking about it before submitting an issue.
 
 ## Using GitHub Enterprise? 
@@ -107,6 +114,4 @@ Help avoid duplicates by checking the board first to see if someone else is alre
 Visit our [website](http://www.zenhub.com/enterprise) to get started with a free trial of ZenHub Enterprise, our on-premise solution. 
 
 
------
-
-*P.S. We write project management and collaboration tips just for GitHubbers [on our blog.](http://www.zenhub.com/blog)* ✌️ 
+✌️ 
