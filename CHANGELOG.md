@@ -2,6 +2,12 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! Get in touch at support@zenhub.com if you need help getting started.
 
+##2.29.26 (02/27/2017)
+<p> ☼ <b>NEW</b> - When the burndown chart is loading, there will now be a prominent loading state
+<p> ☂ Bug fix - Users with read-only repo access will no longer see the ```Hide```, ```Delete Epic```, or ```Modify Epic``` buttons
+
+##2.29.21 (02/24/2017)
+<p> ☼ <b>NEW</b> - The repo-switcher will now sort alphabetically
 
 ##2.29.20 (02/23/2017)
 <p> ☼ <b>NEW</b> - You can now remove past milestones on the Velocity Tracking report by unselecting them in the closed milestones list.
