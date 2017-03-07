@@ -2,7 +2,7 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! Get in touch at support@zenhub.com if you need help getting started.
 
-##2.29.42 (02/27/2017)
+##2.29.42 (03/06/2017)
 <p> ☂ Bug fix - Epics no longer get hung up on loading on the board
 
 ##2.29.26 (02/27/2017)
