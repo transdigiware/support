@@ -2,337 +2,342 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! Get in touch at support@zenhub.com if you need help getting started.
 
-##2.29.42 (03/06/2017)
+## 2.30.1 (03/08/2017)
+<p> ☼ <b>NEW</b> - Find out how your team is spending their time! You can now drill down on the Velocity Report using labels. [Learn about more use cases here...](https://www.zenhub.com/documentation/track-my-velocity#using-labels-on-the-velocity-chart)
+
+<p> ☂ Bug fix - If you don't have write permissions on a repository, you'll no longer see the option to connect an issue to a pull request linking feature on pull requests. 
+
+## 2.29.42 (03/06/2017)
 <p> ☂ Bug fix - Epics no longer get hung up on loading on the board
 
-##2.29.26 (02/27/2017)
+## 2.29.26 (02/27/2017)
 <p> ☼ <b>NEW</b> - When the burndown chart is loading, there will now be a prominent loading state
-<p> ☂ Bug fix - Users with read-only repo access will no longer see the ```Hide```, ```Delete Epic```, or ```Modify Epic``` buttons
+<p> ☂ Bug fix - Users with read-only repo access will no longer see the `Hide`, `Delete Epic`, or `Modify Epic` buttons
 
-##2.29.21 (02/24/2017)
+## 2.29.21 (02/24/2017)
 <p> ☼ <b>NEW</b> - The repo-switcher will now sort alphabetically
 
-##2.29.20 (02/23/2017)
+## 2.29.20 (02/23/2017)
 <p> ☼ <b>NEW</b> - You can now remove past milestones on the Velocity Tracking report by unselecting them in the closed milestones list.
 <p> ☂ Bug fix - Improved the warning message when deleting pipelines on multi-repo boards.
 <p> ☂ Bug fix - Minor UI updates to accomodate GitHub's new blackbar UI
 <p> ☂ Bug fix - Minor copy changes to make multi-actions more clear
 
-##2.29.19 (02/20/2017)
+## 2.29.19 (02/20/2017)
 <p> ☂ Bug fix - Transparent avatar images will now properly appear on the Board without the default avatar appearing in the background
 <p> ☂ Bug fix - In some cases connections between issues and pull requests were being lost when they shouldn't have been
 
-##2.29.9 (02/09/2017)
+## 2.29.9 (02/09/2017)
 <p> ☼ <b>NEW</b> - You can now create a new Pipeline from the + button right of the New Issue button
 <p> ☼ <b>NEW</b> - Added significant performance improvements when you take actions on your task Board
 
-##2.29.7 (02/08/2017)
+## 2.29.7 (02/08/2017)
 <p> ☼ <b>NEW</b> - Added additional audit logs for connections between issues and pull requests
 
-##2.29.4 (02/08/2017)
+## 2.29.4 (02/08/2017)
 <p> ☂ Bug fix - Updated the format of estimates on the Epic creator
 <p> ☂ Bug fix - Fixed a bug that was causing the issue to not show the Epic features when it was transformed into an Epic
 
-##2.29.2 (02/07/2017)
+## 2.29.2 (02/07/2017)
 <p> ☂ Bug fix - When you don't have a network connection there's now better error message indicating such
 
-##2.29.1 (02/07/2017)
+## 2.29.1 (02/07/2017)
 <p> ☼ <b>NEW</b> - The labels filter now has an option to filter issues `without` labels 
 
-##2.28.3 (02/06/2017)
+## 2.28.3 (02/06/2017)
 <p> ☂ Bug fix - When closing the issue modal, titles and comments will no longer be lost
 
-##2.28.1 (01/31/2017)
+## 2.28.1 (01/31/2017)
 <p> ☼ <b>NEW</b> - Connect issues to pull requests to automate the movement of issues across the board. [Learn more...](https://www.zenhub.com/documentation/visualize-my-github-workflow#issue-pr-linking)
 
-##2.27.3 (01/31/2017)
+## 2.27.3 (01/31/2017)
 <p> ☼ <b>NEW</b> - Launched board view settings, where you can now customize what properities appear not only on the board, but also on issue cards
 <p> ☼ <b>NEW</b> - Improved performance for loading times of Epic issue list
 
-#2.26.7 (01/26/2017)
+## 2.26.7 (01/26/2017)
 <p> ☂ Bug fix - Fixes the `not:` filter not working for Epics
 <p> ☂ Bug fix - Fixes the velocity report crashing for repos without a board
 <p> ☂ Bug fix - Fixes the _See this Epic in the Board_ button so it will show the Epic and its descendants on the Board when clicked.
 <p> ☂ Bug fix - Fixes issues and labels with special characters encoding properly in a share URL
 
-#2.26.4 (01/25/2017)
+## 2.26.4 (01/25/2017)
 <p> ☼ <b>NEW</b> - Better issues lists within epics that show issues by pipeline
 <p> ☼ <b>NEW</b> - With better issue lists and nested epics, you'll now see `epic points` within the issue list on an epic 
 
-#2.26.2 (01/23/2017)
+## 2.26.2 (01/23/2017)
 <p> ☼ <b>NEW</b> - update epic list page and epic estimate totals
 <p> ☂ Bug fix - fix middle click on board view 
 <p> ☂ Bug fix - fix encoding error in URL 
 
-##2.25.22 (01/06/2017)
+## 2.25.22 (01/06/2017)
 <p> ☼ <b>NEW</b> - include estimates for multi-select
 
-##2.25.21 (01/06/2017)
+## 2.25.21 (01/06/2017)
 <p> ☼ <b>NEW</b> - multi-repo milestone creation from the board
 
-##2.25.15 (12/22/2016)
+## 2.25.15 (12/22/2016)
 <p> ☼ <b>NEW</b> - better nesting of child issues for epics
 
-##2.25.5 (12/13/2016)
+## 2.25.5 (12/13/2016)
 <p> ☼ <b>NEW</b> - show epic name on child issues
 
-##2.25.2 (12/05/2016)
+## 2.25.2 (12/05/2016)
 <p> ☼ <b>NEW</b> - Select multiple issues and perform actions 
 
-##2.24.36 (11/29/2016)
+## 2.24.36 (11/29/2016)
 <p> ☼ <b>NEW</b> - sort issue by creation date
 
-##2.24.34 (11/24/2016)
+## 2.24.34 (11/24/2016)
 <p> ☼ <b>NEW</b> - Manual sorting option added as default
 <p> ☂ Bug fix - repo switcher hotkey
 
-##2.24.29 (11/04/2016)
+## 2.24.29 (11/04/2016)
 <p> ☼ <b>NEW</b> - milestone selector includes repo names (for connected milestones)
 <p> ☼ <b>NEW</b> - expand and collapse added into the non-single pipeline widths
 
-##2.24.26 (11/02/2016)
+## 2.24.26 (11/02/2016)
 <p> ☼ <b>NEW</b> - sortable pipelines 
 
-##2.24.23 (10/27/2016)
+## 2.24.23 (10/27/2016)
 <p> ☂ Bug fix - ToDo not showing 
 <p> ☂ Bug fix - Burndowns not generating
 
-##2.24.21 (10/26/2016)
+## 2.24.21 (10/26/2016)
 <p> ☼ <b>NEW</b> - Epics dropdown added to board UI
 <p> ☼ <b>NEW</b> - Ability to add an issue to an epic from the new issues page
 
-##2.24.20 (10/21/2016)
+## 2.24.20 (10/21/2016)
 <p> ☼ <b>NEW</b> - Velocity tracking 
 <p> ☼ <b>NEW</b> - Burndown chart UI improvements 
 
-##2.24.18 (10/21/2016)
+## 2.24.18 (10/21/2016)
 <p> ☂ Bug fix - Epics not saving preview content
 <p> ☂ Bug fix - repo switcher throwing javascript error
 <p> ☂ Bug fix - fix epic filter
 
-##2.24.14 (10/14/2016)
+## 2.24.14 (10/14/2016)
 <p> ☼ <b>NEW</b> - change assignee filter behaviour
 <p> ☂ Bug fix - 'show all' button fix 
 
-##2.24.13 (10/12/2016)
+## 2.24.13 (10/12/2016)
 <p> ☂ Bug fix - bug fix for projects API when disconnecting a repo 
 <p> ☂ Bug fix - fix 'filter by epic' behaviour
 
-##2.24.12 (10/07/2016)
+## 2.24.12 (10/07/2016)
 <p> ☂ Bug fix - keyboard shortcut bug in edit pages
 <p> ☂ Bug fix - topbar covered part of GH menu 
 <p> ☂ Bug fix - add estimate field to new PR
 
-##2.24.6 (09/28/2016)
+## 2.24.6 (09/28/2016)
 <p> ☼ <b>NEW</b> - Advanced filtering - 'Not' filters
 <p> ☼ <b>NEW</b> - Reprioritize issues from this issue page
 <p> ☼ <b>NEW</b> - Custom webhooks
 <p> ☼ <b>NEW</b> - Epic endpoints added to the API
 
-##2.23.34 (09/07/2016)
+## 2.23.34 (09/07/2016)
 <p> ☂ Bug fix - TODO page not loading 
 <p> ☂ Bug fix - epics page not loading 
 
-##2.23.30 (09/07/2016)
+## 2.23.30 (09/07/2016)
 <p> ☼ <b>NEW</b> - Performance updates 
 <p> ☼ <b>NEW</b> - Select pipelines to be marked as completed in the burndown chart
 
-##2.23.19 (08/23/2016)
+## 2.23.19 (08/23/2016)
 <p> ☼ <b>NEW</b> - filter burndown by label
 <p> ☂ Bug fix - warning message for trying to rename a MRB pipeline 
 
-##2.23.17 (08/18/2016)
+## 2.23.17 (08/18/2016)
 <p> ☼ <b>NEW</b> Milestones are shown on the issue card
 <p> ☂ Bug fix - arrow keys now work in filters
 
-##2.23.15 (08/15/2016)
+## 2.23.15 (08/15/2016)
 <p> ☂ Bug fix - fix error with URL sharing
 
-##2.23.15 (08/11/2016)
+## 2.23.15 (08/11/2016)
 <p> ☼ <b>NEW</b> hide PR's from burndown
 <p> ☂ Bug fix - show features as read only for read only users 
 Other - temp removal of pipeline reprioritizing 
 
-##2.21.2 (07/25/2016)
+## 2.21.2 (07/25/2016)
 <p> ☂ Bug fix - pipeline expand settings resetting on issue movement 
 <p> ☂ Bug fix - long repo names expanding cards
 <p> ☂ Bug fix - fix compatibilty issue with older chrome versions
 
-##2.21.1 (07/22/2016)
+## 2.21.1 (07/22/2016)
 <p> ☼ <b>NEW</b> Speed improvements for drag and drop
 <p> ☼ <b>NEW</b> full screen board now has a URL parameter 
 <p> ☼ <b>NEW</b> expanded pipelines show the full card
 
 
-##2.20.10 (07/16/2016)
+## 2.20.10 (07/16/2016)
 <p> ☂ Bug fix - Epic issues were not being created
 
-##2.19.1
+## 2.19.1
 <p> ☼ <b>NEW</b> Show multiple assignees in board view 
 <p> ☂ Bug fix - fix tooltip on assignee filter
 <p> ☂ Bug fix - fix epic shortcut key
 
-##2.18.8
+## 2.18.8
 <p> ☼ <b>NEW</b> - re-prioritize issue in pipeline via sidebar 
 <p> ☂ Bug fix - Data not displaying on read-only public boards
 
-##2.18.2
+## 2.18.2
 <p> ☼ <b>NEW</b> - Quick issue creation on '#' 
 <p> ☂ Bug fix - Estimate precision bug
 <p> ☂ Bug fix - improve getIssues performance 
 
-##2.17.01 (06/09/2016)
+## 2.17.01 (06/09/2016)
 <p> ☼ <b>NEW</b> - Move issue now allows you to copy an issue as well (the issue will not close)
 <p> ☂ Bug fix -  'Escape bug' on the board modal has been fixed 
 
-##2.16.40 (05/03/2016)
+## 2.16.40 (05/03/2016)
 <p> ☼ <b>NEW</b> - Show weekends on the burndown chart
 
-##2.16.38 (04/29/2016)
+## 2.16.38 (04/29/2016)
 <p> ☼ <b>NEW</b> - better read only notifications
 <p> ☼ <b>NEW</b> - selected pipeline in epic builder is highlighted
 <p> ☂ Bug fix - 401 token error handling
 <p> ☂ Bug fix - search field height fix
 
-##2.16.37 (04/22/2016)
+## 2.16.37 (04/22/2016)
 <p> ☼ <b>NEW</b> - Burndowns store milestone information in the URL
 <p> ☂ Bug fix - fix sidebar on popups
 
-##2.16.32 (04/18/2016)
+## 2.16.32 (04/18/2016)
 <p> ☂ Bug fix - better epic filtering on the board 
 <p> ☂ Bug fix - pipelines and estimates not being saved on issues created via the board
 
-##2.16.30 (04/15/2016)
+## 2.16.30 (04/15/2016)
 <p> ☼ <b>NEW</b> Performance refactor (Chrome only) 
 <p> ☂ Bug fix - fix bug on pipeline renames
 <p> ☂ Bug fix - move the board status indicator so it does not break the page flow
 <p> ☂ Bug fix - fix sidebar bug for epics 
 <p> ☂ Bug fix - bug fix for creating issues with references to other issues 
 
-##2.16.27 (04/12/2016)
+## 2.16.27 (04/12/2016)
 <p> ☂ Bug fix - fix for deleted milestones not being updated in the cache
 <p> ☂ Bug fix - assignee filter incorrect name updated
 
-##2.16.25 (04/12/2016)
+## 2.16.25 (04/12/2016)
 <p> ☼ <b>NEW</b> The epic selector on the issue page now supports multi-repo epics 
 <p> ☂ Bug fix - Empty boards now load without hanging 
 <p> ☂ Bug fix - Onboarding copy updated 
 
-##2.16.21 (04/05/2016)
+## 2.16.21 (04/05/2016)
 <p> ☼ <b>NEW</b> Add estimate totals to the closed pipeline
 <p> ☼ <b>NEW</b> Various small improvements to the epics
 
-##2.16.11 (04/04/2016)
+## 2.16.11 (04/04/2016)
 <p> ☼ <b>NEW</b> - Epics!
 <p> ☂ Bug fix - fix issue list showing incorrect pipelines
 
-##2.15.97 (04/01/2016)
+## 2.15.97 (04/01/2016)
 <p> ☼ <b>NEW</b> - Speed refactor for board movement updates 
 <p> ☂ Bug fix - Fix duplication of movement events when using the back button after looking at a commit 
 
-##2.15.94 (03/31/2016)
+## 2.15.94 (03/31/2016)
 <p> ☂ Bug fix - fix GitHub reactions tool tip
 <p> ☂ Bug fix - resolve board merge tool issue where number of issues per pipelines was not displaying
 
-##2.15.93 (03/30/2016)
+## 2.15.93 (03/30/2016)
 <p> ☂ Bug fix - new label cache implemented to keep label changes in-sync with the rest of GitHub
 
-#2.15.87 (03/21/2016)
+## 2.15.87 (03/21/2016)
 <p> ☂ Bug fix - fixed bug with multi-org burndown charts
 
-##2.15.86 (03/21/2016)
+## 2.15.86 (03/21/2016)
 <p> ☂ Bug fix - Boards broken following the GitHub downtime
 <p> ☂ Bug fix - Board does not re-size correctly
 <p> ☂ Bug fix - Board scroll bars dissapear on re-size
 
-##2.15.82 (03/18/2016)
+## 2.15.82 (03/18/2016)
 <p> ☂ Bug fix - estimate bug fixes
 
-##2.15.77 (03/16/2016)
+## 2.15.77 (03/16/2016)
 <p> ☂ Bug fix - Onboarding cache bug fix - onboarding settings now stored on the backend
 
-##2.15.76 (03/15/2016)
+## 2.15.76 (03/15/2016)
 <p> ☼ <b>NEW</b> - Feature tidy-up. Removed +1, file uploads and export functionality
 
-##2.15.72 (03/11/2016)
+## 2.15.72 (03/11/2016)
 <p> ☂ Bug fix - Show last 5 closed milestones on the burndown page
 
-##2.15.69 (03/09/2016)
+## 2.15.69 (03/09/2016)
 <p> ☼ <b>NEW</b> Option to load more issues into the closed pipeline
 
-##2.15.65 (03/04/2016)
+## 2.15.65 (03/04/2016)
 <p> ☼ <b>NEW</b> Show pipelines and estimates on issue list page 
 
-##2.15.61 (03/03/2016)
+## 2.15.61 (03/03/2016)
 <p> ☼ <b>NEW</b> Multiple repository burndown charts! 
 
-##2.15.52 (02/24/2016)
+## 2.15.52 (02/24/2016)
 <p> ☂ Bug fix - resolve milestone cache issues with milestone renames
 
-##2.15.47 (02/17/2016)
+## 2.15.47 (02/17/2016)
 <p> ☼ <b>NEW</b> - move issue to another repo
 <p> ☂ Bug fix - fix tooltips on full screen board 
 
-##2.14.44 (02/16/2016)
+## 2.14.44 (02/16/2016)
 <p> ☂ Bug fix - side bar scroll updates
 <p> ☂ Bug fix - a number of icon updates 
 <p> ☂ Bug fix - close issue bug for in-board modal
 
-##2.15.16 (01/28/2016)
+## 2.15.16 (01/28/2016)
 <p> ☼ <b>NEW</b> - Persist mutli-board selection
 <p> ☼ <b>NEW</b> - Allow estimates on closed issues
 <p> ☼ <b>NEW</b> - Update issue title on modal 
 
 
-##2.15.12 (01/22/2016)
+## 2.15.12 (01/22/2016)
 <p> ☼ <b>NEW</b> - Add a full screen mode
 
-##2.15.11 (01/20/2016)
+## 2.15.11 (01/20/2016)
 
 <p> ☼ <b>NEW</b> - Send an issue to the top or bottom of a pipeline 
 <p> ☂ Bug fix - resolves sign out issues 
 <p> ☂ Bug fix - makes sure new issues are added to the board immediatly 
 
 
-##2.15.4 (01/13/2016)
+## 2.15.4 (01/13/2016)
 <p> ☂ Bug fix - fix todo page scroll bug 
 <p> ☂ Bug fix - update repo switcher style
 <p> ☂ Bug fix - fix alignment of cross-org merge repo dialog
 
-##2.15.3 (01/13/2016)
+## 2.15.3 (01/13/2016)
 <p> ☼ <b>NEW</b> - Show pipeline and estimate updates in the issue page - as they happen
 <p> ☂ Bug fix - middle click to open issue in new tab from the board
 
-##2.15.2 (01/12/2016)
+## 2.15.2 (01/12/2016)
 <p> ☂ Bug fix -  resolve burndowns not loading in some cases
 
-##2.15.1 (01/11/2016)
+## 2.15.1 (01/11/2016)
 <p> ☼ <b>NEW</b> - Move multiple issues - at the same time!
 
-##2.14.2 (01/07/2016)
+## 2.14.2 (01/07/2016)
 <p> ☼ <b>NEW</b> - Issue updates are shown in-line on the issue page
 <p> ☂ Bug fix -  Minor style fixes for Firefox
 <p> ☂ Bug fix - Better userfeedback for errors on ZenHub Dashboard
 
-##2.13.24 (12/29/2015)
+## 2.13.24 (12/29/2015)
 <p> ☂ Bug fix - Focus the Issue Popup when it opens.
 <p> ☂ Bug fix - Blazing fast filter updates in the board.
 
-##2.12.23 (12/28/2015)
+## 2.12.23 (12/28/2015)
 <p> ☂ Bug fix - Fixes search input focus bug
 
-##2.13.22 (12/24/2015)
+## 2.13.22 (12/24/2015)
 <p> ☂ Bug fix - More robust implementation of the Board rendering and injection (pjax issues).
 <p> ☂ Bug fix - Remove the attachment icon on Issue cards.
 <p> ☂ Bug fix - Fix issue popup dismiss handling and update the board after closing the popup.
 <p> ☼ <b>NEW</b> Sum of estimates on the Pipeline headers.
 
 
-##2.13.9 (12/08/2015)
+## 2.13.9 (12/08/2015)
 <p> ☂ Bug fix - Faster pipeline updates
 <p> ☂ Bug fix - avoid auto scroll when closing an issue
 
-##2.13 (12/02/2015)
+## 2.13 (12/02/2015)
 <p> ☼ <b>NEW</b> Firefox support!
 
 ## 2.12.23 (11/26/2015) 
