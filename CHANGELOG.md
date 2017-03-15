@@ -3,7 +3,7 @@
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! Get in touch at support@zenhub.com if you need help getting started.
 
 ## 2.30.1 (03/08/2017)
-<p> ☼ <b>NEW</b> - Find out how your team is spending their time! You can now drill down on the Velocity Report using labels. [Learn about more use cases here...](https://www.zenhub.com/documentation/track-my-velocity#using-labels-on-the-velocity-chart)
+<p> ☼ <b>NEW</b> - Find out how your team is spending their time! You can now drill down on the Velocity Report using labels.
 
 <p> ☂ Bug fix - If you don't have write permissions on a repository, you'll no longer see the option to connect an issue to a pull request linking feature on pull requests. 
 
@@ -48,7 +48,7 @@
 <p> ☂ Bug fix - When closing the issue modal, titles and comments will no longer be lost
 
 ## 2.28.1 (01/31/2017)
-<p> ☼ <b>NEW</b> - Connect issues to pull requests to automate the movement of issues across the board. [Learn more...](https://www.zenhub.com/documentation/visualize-my-github-workflow#issue-pr-linking)
+<p> ☼ <b>NEW</b> - Connect issues to pull requests to automate the movement of issues across the board.
 
 ## 2.27.3 (01/31/2017)
 <p> ☼ <b>NEW</b> - Launched board view settings, where you can now customize what properities appear not only on the board, but also on issue cards
