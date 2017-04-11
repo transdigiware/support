@@ -2,6 +2,9 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! Get in touch at support@zenhub.com if you need help getting started.
 
+## Write API (03/28/2017)
+<p> ☼ <b>NEW</b> - We now have new write API endpoints! Learn more about the new endpoints here: https://github.com/ZenHubIO/API
+
 ## 2.30.1 (03/08/2017)
 <p> ☼ <b>NEW</b> - Find out how your team is spending their time! You can now drill down on the Velocity Report using labels.
 
