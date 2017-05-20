@@ -4,7 +4,7 @@
 
 
 ## 2.34.1 (05/19/2017)
-<p> ☼ <b>NEW</b> - Create dependencies between GitHub Issues to manage task relationships. Learn more:https://www.zenhub.com/guides/issue-dependencies
+<p> ☼ <b>NEW</b> - Create dependencies between GitHub Issues to manage task relationships. Learn more: https://www.zenhub.com/guides/issue-dependencies
 
 ## 2.32.8 (04/27/2017)
 <p> ☂ Bug fix - Minor fixes for Release reports where a user has read-only access.
