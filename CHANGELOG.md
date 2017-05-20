@@ -2,6 +2,16 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! Get in touch at support@zenhub.com if you need help getting started.
 
+
+## 2.34.1 (05/19/2017)
+<p> ☼ <b>NEW</b> - Create dependencies between GitHub Issues to manage task relationships. Learn more:https://www.zenhub.com/guides/issue-dependencies
+
+## 2.32.8 (04/27/2017)
+<p> ☂ Bug fix - Minor fixes for Release reports where a user has read-only access.
+
+## Release Reports (04/25/2017)
+<p> ☼ <b>NEW</b> - A new report! Predict scope changes and proactively plan Release with Release reports. Learn more: https://www.zenhub.com/guides/release-reports
+
 ## Write API (03/28/2017)
 <p> ☼ <b>NEW</b> - We now have new write API endpoints! Learn more about the new endpoints here: https://github.com/ZenHubIO/API
 
