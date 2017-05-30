@@ -2,6 +2,8 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! Get in touch at support@zenhub.com if you need help getting started.
 
+## 2.34.2 (05/29/2017)
+<p> ☼ <b>NEW</b> - Small, but mighty interface enhancements to Boards and reports to make them more user-friendly.
 
 ## 2.34.1 (05/19/2017)
 <p> ☼ <b>NEW</b> - Create dependencies between GitHub Issues to manage task relationships. Learn more: https://www.zenhub.com/guides/issue-dependencies
