@@ -2,7 +2,7 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! Get in touch at support@zenhub.com if you need help getting started.
 
-## 2.34.17 (05/29/2017)
+## 2.34.17 (06/05/2017)
 <p> ☼ <b>NEW</b> - Release report data can now be exported to CSV.
 <p> ☼ <b>NEW</b> - Issues can now be closed in bulk using the _Move to Pipeline_ action when in multi-select mode.
 <p> ☂ Bug fix - Epics that were nested under other Epics weren't appearing when filtering the Board by _Show Epics and hide subtasks_ — When filtering by Epics, all Epics will appear now even if they're nested.
