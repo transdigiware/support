@@ -2,6 +2,10 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! Get in touch at support@zenhub.com if you need help getting started.
 
+## 2.34.22 (06/09/2017)
+<p> ☼ <b>NEW</b> - You can now clear a Milestone from multiple Issues at once using the multi-action, assign Milestone action and using the clear Milestones option.
+<p> ☼ <b>IMPROVED</b> - Style updates to Burndown, including a learn more onboarding tip for users just getting started with Burndown
+
 ## 2.34.17 (06/05/2017)
 <p> ☼ <b>NEW</b> - Release report data can now be exported to CSV.
 <p> ☼ <b>NEW</b> - Issues can now be closed in bulk using the _Move to Pipeline_ action when in multi-select mode.
