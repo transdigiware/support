@@ -2,6 +2,13 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! Get in touch at support@zenhub.com if you need help getting started.
 
+## 2.34.21 (06/21/2017)
+
+<p> ☂ Bug fix - Long pipeline/Milestone/Release names will no longer break layouts
+
+## 2.34.30 (06/20/2017)
+<p> ☼ <b>IMPROVED</b> - Style updates to loading states for all our Reports
+
 ## 2.34.22 (06/09/2017)
 <p> ☼ <b>NEW</b> - You can now clear a Milestone from multiple Issues at once using the multi-action, assign Milestone action and using the clear Milestones option.
 <p> ☼ <b>IMPROVED</b> - Style updates to Burndown, including a learn more onboarding tip for users just getting started with Burndown
