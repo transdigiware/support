@@ -2,6 +2,12 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! Get in touch at support@zenhub.com if you need help getting started.
 
+## 2.34.40 (07/04/2017)
+
+<p> ☂ Bug fix - UI updates to Epics where line breaks and the Epic logo were appearing in places they shouldn't
+<p> ☂ Bug fix - Date selector bug fix to change dates across all repos that contain the same Milestone, not just one
+<p> ☂ Bug fix - Fixed the size of the dropdown button on a repo's navigation
+
 ## 2.34.34 (06/23/2017)
 
 <p> ☂ Bug fix - Release reports coloring on the chart will now render properly with estimated, un-estimated, and completed scope instead of being oddly overlayed within each other
