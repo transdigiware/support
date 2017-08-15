@@ -2,6 +2,43 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! Get in touch at support@zenhub.com if you need help getting started.
 
+
+## 2.34.76 (08/10/2017)
+<p> ☼ <b>NEW</b> - Manage, edit, and create Milestones in bulk via the new Milestone page in the web app
+
+## 2.34.73 (08/10/2017)
+<p> ☼ <b>NEW</b> - Filter the Board by Issues not in a Release
+
+## 2.34.73 (07/27/2017)
+<p> ☂ Bug fix - UI updates to Burndown, including fixing the burndown pipeline being generated correctly when Issues get closed
+
+## 2.34.65 (07/20/2017)
+<p> ☼ <b>NEW</b> - Your name (the current user) will not be moved to the top of the lists of assignees on the Board
+
+## 2.34.63 (07/18/2017)
+<p> ☼ <b>NEW</b> - Copy and paste from clipboard to upload files via the web app
+
+## 2.34.61 (07/13/2017)
+<p> ☼ <b>NEW</b> - Improved UI for creating new Issues on the web app
+
+## 2.34.58 (07/12/2017)
+<p> ☂ Bug fix - Fixes UI when applying not: to filter labels
+<p> ☂ Bug fix - Minor UI updates to View options on the Board 
+
+## 2.34.55 (07/11/2017)
+<p> ☂ Bug fix - Fixed missing weekends on the Burndown chart in Safari for the web app
+
+## 2.34.52 (07/07/2017)
+<p> ☂ Bug fix - Small UI updates to the Board and dropdown menus.
+<p> ☼ <b>NEW</b> - Improved sign in experience on the web app.
+
+## 2.34.47 (07/07/2017)
+<p> ☂ Bug fix - UI updates to Epics and tooltips to fix alignment issues.
+<p> ☼ <b>NEW</b> - Support more additional file types for file upload on the web app
+
+## 2.34.43 (07/05/2017)
+<p> ☂ Bug fix - When clicking off a new Issue being created, the web app will prompt you to confirm that you'd like to navigate away so you don't lose incomplete work.
+
 ## 2.34.40 (07/04/2017)
 
 <p> ☂ Bug fix - UI updates to Epics where line breaks and the Epic logo were appearing in places they shouldn't
