@@ -2,31 +2,47 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! Get in touch at support@zenhub.com if you need help getting started.
 
+## 2.35.10 (08/26/2017)
+<p> ☂ Bug fix - Issue events will no longer show the `@` symbol where the user avatar should have been
+
+## 2.35.9 (08/26/2017)
+<p> ☂ Bug fix - When prioritizing Issues within a pipeline, there's no longer a tiny window where the pipeline will auto-scroll. Teams can now move Issues much easier within the pipeline.
+<p> ☂ Bug fix - Fixed the GitHub page footer from jumping into the screen view and causing the page to get stuck after updating Issues from the Board.
+
+## 2.35.3 (08/24/2017)
+<p> ☂ Bug fix - The Board will no longer freeze when sleeping after we publish a new extension version - smooth sailing when waking your ZenHub tab moving forward.
+
+## 2.34.85 (08/21/2017)
+<p> ☂ Bug fix - Incorrect dates were displaying when picking start/end dates on the Burndown chart - they will now properly display the date you've selected.
+
+## 2.34.84 (08/18/2017)
+<p> ☼ <b>NEW</b> - Create an Issue from anywhere in the ZenHub web app using the new `+` button in the top nav.
+<p> ☂ Bug fix - Epics will no longer be created in the wrong repo in a multi-repo Board when using the `+` button .
 
 ## 2.34.76 (08/10/2017)
-<p> ☼ <b>NEW</b> - Manage, edit, and create Milestones in bulk via the new Milestone page in the web app
+<p> ☼ <b>NEW</b> - Manage, edit, and create Milestones in bulk via the new Milestone page in the web app.
 
 ## 2.34.73 (08/10/2017)
-<p> ☼ <b>NEW</b> - Filter the Board by Issues not in a Release
+<p> ☼ <b>NEW</b> - Filter the Board by Issues not in a Release.
 
 ## 2.34.73 (07/27/2017)
-<p> ☂ Bug fix - UI updates to Burndown, including fixing the burndown pipeline being generated correctly when Issues get closed
+<p> ☂ Bug fix - UI updates to Burndown, including fixing the burndown pipeline being generated correctly when Issues get closed.
 
 ## 2.34.65 (07/20/2017)
-<p> ☼ <b>NEW</b> - Your name (the current user) will not be moved to the top of the lists of assignees on the Board
+<p> ☼ <b>NEW</b> - Your name (the current user) will not be moved to the top of the lists of assignees on the Board.
 
 ## 2.34.63 (07/18/2017)
-<p> ☼ <b>NEW</b> - Copy and paste from clipboard to upload files via the web app
+<p> ☼ <b>NEW</b> - Copy and paste from clipboard to upload files via the web app.
 
 ## 2.34.61 (07/13/2017)
-<p> ☼ <b>NEW</b> - Improved UI for creating new Issues on the web app
+<p> ☼ <b>NEW</b> - Improved UI for creating new Issues on the web app.
 
 ## 2.34.58 (07/12/2017)
-<p> ☂ Bug fix - Fixes UI when applying not: to filter labels
-<p> ☂ Bug fix - Minor UI updates to View options on the Board 
+<p> ☂ Bug fix - Fixes UI when applying not: to filter labels.
+<p> ☂ Bug fix - Minor UI updates to View options on the Board. 
 
 ## 2.34.55 (07/11/2017)
-<p> ☂ Bug fix - Fixed missing weekends on the Burndown chart in Safari for the web app
+<p> ☂ Bug fix - Fixed missing weekends on the Burndown chart in Safari for the web app.
 
 ## 2.34.52 (07/07/2017)
 <p> ☂ Bug fix - Small UI updates to the Board and dropdown menus.
@@ -34,7 +50,7 @@
 
 ## 2.34.47 (07/07/2017)
 <p> ☂ Bug fix - UI updates to Epics and tooltips to fix alignment issues.
-<p> ☼ <b>NEW</b> - Support more additional file types for file upload on the web app
+<p> ☼ <b>NEW</b> - Support more additional file types for file upload on the web app.
 
 ## 2.34.43 (07/05/2017)
 <p> ☂ Bug fix - When clicking off a new Issue being created, the web app will prompt you to confirm that you'd like to navigate away so you don't lose incomplete work.
