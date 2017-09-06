@@ -2,6 +2,11 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! Get in touch at support@zenhub.com if you need help getting started.
 
+## 2.35.18 (09/05/2017)
+<p> ☼ <b>NEW</b> - app.zenhub.com will now show recently visited public repositories and repositories for which you are a collaborator.
+<p> ☂ Bug fix - The Board will no longer lock up when dragging and dropping Issues between Pipelines.
+<p> ☂ Bug fix - Fixes an Issue with permissions caching preventing the Board from loading.
+
 ## 2.35.10 (08/26/2017)
 <p> ☂ Bug fix - Issue events will no longer show the `@` symbol where the user avatar should have been
 
