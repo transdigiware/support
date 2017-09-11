@@ -2,6 +2,16 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! Get in touch at support@zenhub.com if you need help getting started.
 
+
+## 2.35.23 (09/11/2017)
+<p> ☼ <b>NEW</b> - Issue events are now collapsed by default, saving space between comments and collaboration to keep conversations flowing! 
+<p> ☼ <b>NEW</b> - Board notifications are now black, making them easier to see and interact with.
+<p> ☂ Bug fix - Copy updates to collapsed dependency lists in Issues
+<p> ☂ Bug fix - Newly connected PRs and Issues will move to the appropriate pipeline, rather than backwards to the first pipeline.
+
+## 2.35.23 (09/07/2017)
+<p> ☼ <b>NEW</b> - Board settings are updated so teams can access in-app tutorials and onboarding, easily navigate to the web app, and modify the Board view settings.
+
 ## 2.35.18 (09/05/2017)
 <p> ☼ <b>NEW</b> - app.zenhub.com will now show recently visited public repositories and repositories for which you are a collaborator.
 <p> ☂ Bug fix - The Board will no longer lock up when dragging and dropping Issues between Pipelines.
