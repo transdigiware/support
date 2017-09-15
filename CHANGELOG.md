@@ -7,7 +7,7 @@
 <p> ☂ Bug fix - You can click `esc` to exit the Issue Dependency dropdown
 
 ## 2.35.24 (09/11/2017)
-<p> ☼ <b>NEW</b> - Invite your team! Using the Invite button via [app.zenhub.com](https://app.zenhub.com) or the Invite option in the Board Settings filter you can now see who in your team is in ZenHub and invite those that aren't yet in the Boards.
+<p> ☼ <b>NEW</b> - Invite your team! Using the Invite button via https://app.zenhub.com or the Invite option in the Board Settings filter you can now see who in your team is in ZenHub and invite those that aren't yet in the Boards.
 
 ## 2.35.23 (09/11/2017)
 <p> ☼ <b>NEW</b> - Issue events are now collapsed by default, saving space between comments and collaboration to keep conversations flowing! 
