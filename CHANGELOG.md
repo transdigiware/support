@@ -2,6 +2,12 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! Get in touch at support@zenhub.com if you need help getting started.
 
+## 2.35.28 (09/12/2017)
+<p><b>UPDATE</b> - ToDos will be deprecated as of October 5th - please ensure you take note of outstanding Issue ToDos before then to not lose any data. 
+<p> ☂ Bug fix - You can click `esc` to exit the Issue Dependency dropdown
+
+## 2.35.24 (09/11/2017)
+<p> ☼ <b>NEW</b> - Invite your team! Using the Invite button via [app.zenhub.com](https://app.zenhub.com) or the Invite option in the Board Settings filter you can now see who in your team is in ZenHub and invite those that aren't yet in the Boards.
 
 ## 2.35.23 (09/11/2017)
 <p> ☼ <b>NEW</b> - Issue events are now collapsed by default, saving space between comments and collaboration to keep conversations flowing! 
