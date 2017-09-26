@@ -2,6 +2,18 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! Get in touch at support@zenhub.com if you need help getting started.
 
+
+## 2.35.31 (09/22/2017)
+<p> ☼ <b>NEW</b> - For team members onboarding into ZenHub, we not guide users to where they can continue to access tutorials through the Board settings option
+<p><b>UPDATE</b> - We cleaned up the repo navigation by removing the dropdown arrow that led to settings. All options to navigate around the repo will appear on the screen instead of tucked behind a dropdown
+<p> ☂ Bug fix - When inviting team members the list will no longer jump around when you add a suggested team member
+
+## 2.35.30 (09/18/2017)
+<p> ☂ Bug fix - Adding a Release to an Issue through the sidebar will no longer create duplicate events (extension only)
+<p> ☂ Bug fix - Saving Milestones when the description was empty will no longer through an unexpected error
+<p> ☼ <b>NEW</b> - UI revamp of Issue Settings - hovering over an Issue on the Board will now show three vertical dots instead of an options cog
+
+
 ## 2.35.28 (09/12/2017)
 <p><b>UPDATE</b> - ToDos will be deprecated as of October 5th - please ensure you take note of outstanding Issue ToDos before then to not lose any data. 
 <p> ☂ Bug fix - You can click `esc` to exit the Issue Dependency dropdown
