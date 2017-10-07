@@ -13,7 +13,7 @@
 
 ## 2.35.30 (09/18/2017)
 <p> ☂ Bug fix - Adding a Release to an Issue through the sidebar will no longer create duplicate events (extension only)
-<p> ☂ Bug fix - Saving Milestones when the description was empty will no longer through an unexpected error
+<p> ☂ Bug fix - Saving Milestones when the description was empty will no longer throw an unexpected error
 <p> ☼ <b>NEW</b> - UI revamp of Issue Settings - hovering over an Issue on the Board will now show three vertical dots instead of an options cog
 
 
