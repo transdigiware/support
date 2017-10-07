@@ -7,7 +7,7 @@
 
 
 ## 2.35.31 (09/22/2017)
-<p> ☼ <b>NEW</b> - For team members onboarding into ZenHub, we not guide users to where they can continue to access tutorials through the Board settings option
+<p> ☼ <b>NEW</b> - For team members onboarding into ZenHub, we now guide users to where they can continue to access tutorials through the Board settings option
 <p><b>UPDATE</b> - We cleaned up the repo navigation by removing the dropdown arrow that led to settings. All options to navigate around the repo will appear on the screen instead of tucked behind a dropdown
 <p> ☂ Bug fix - When inviting team members the list will no longer jump around when you add a suggested team member
 
