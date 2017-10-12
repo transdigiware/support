@@ -2,9 +2,12 @@
 
 [Here's](https://github.com/axiomzen/zenhub-now/wiki/How-to-Update-ZenHub-Extension) how to update to the latest version of ZenHub! Get in touch at support@zenhub.com if you need help getting started.
 
+## 2.35.42 (10/11/2017)
+<p><b>UPDATE</b> - ToDo has been removed from the top GitHub navigation bar and is no longer supported
+<p> ☂ Bug fix - Duplicated events when navigating between pull request tabs is fixed
+
 ## 2.35.36 (09/28/2017)
 <p> ☼ <b>NEW</b> - Dependencies are now shown on the Board using icon indicators and can be filtered on the Board to show that Issue's Dependency tree! 
-
 
 ## 2.35.31 (09/22/2017)
 <p> ☼ <b>NEW</b> - For team members onboarding into ZenHub, we now guide users to where they can continue to access tutorials through the Board settings option
