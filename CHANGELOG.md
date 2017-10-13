@@ -6,7 +6,7 @@
 ## October 13, 2017
 
 We've officially launched our Product Changelog on our website!
-Visit https://www.zenhub.com/changelog/month/october-2017 for the latest updates.
+**Visit https://www.zenhub.com/changelog for the latest updates.**
 
 ## 2.35.42 (10/11/2017)
 <p><b>UPDATE</b> - ToDo has been removed from the top GitHub navigation bar and is no longer supported
