@@ -8,6 +8,10 @@
 We've officially launched our Product Changelog on our website!
 **Visit https://www.zenhub.com/changelog for the latest updates.**
 
+## 2.35.45 (10/16/2017)
+<p> ☼ <b>NEW</b> - Expand and collapse pipelines without having to go into an options menu
+<p> ☂ Bug fix - fixed bug where using the release selector on a new issue would cause the issue to submit 
+
 ## 2.35.42 (10/11/2017)
 <p><b>UPDATE</b> - ToDo has been removed from the top GitHub navigation bar and is no longer supported
 <p> ☂ Bug fix - Duplicated events when navigating between pull request tabs is fixed
